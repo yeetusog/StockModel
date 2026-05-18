@@ -1,0 +1,174 @@
+{
+  "snapshot_id": "AAPL_20260506_180838",
+  "ticker": "AAPL",
+  "timestamp": "2026-05-06T18:08:38.731413+00:00",
+  "refresh_type": "manual",
+  "price": {
+    "current": null,
+    "open": null,
+    "high": null,
+    "low": null,
+    "close_prev": null,
+    "change_pct": null,
+    "volume": null,
+    "avg_volume_10d": null,
+    "market_cap": null,
+    "pe_ratio": null,
+    "eps": null,
+    "week_52_high": null,
+    "week_52_low": null,
+    "beta": null,
+    "dividend_yield": null,
+    "forward_pe": null,
+    "price_to_book": null
+  },
+  "technical": {
+    "rsi_14": null,
+    "rsi_signal": null,
+    "macd": null,
+    "macd_signal_line": null,
+    "macd_histogram": null,
+    "macd_crossover": null,
+    "sma_20": null,
+    "sma_50": null,
+    "ema_12": null,
+    "ema_26": null,
+    "bb_upper": null,
+    "bb_lower": null,
+    "bb_mid": null,
+    "bb_position": null,
+    "price_vs_sma20_pct": null,
+    "price_vs_sma50_pct": null,
+    "volume_vs_avg_pct": null,
+    "trend": null
+  },
+  "sentiment": {
+    "mean_score": 0.299,
+    "magnitude_avg": 0.301,
+    "positive_count": 3,
+    "neutral_count": 7,
+    "negative_count": 0,
+    "label": "POSITIVE"
+  },
+  "news": [
+    {
+      "source": "google",
+      "title": "Apple: A Once-In-A-Generation Buy Signal Just Flashed (NASDAQ:AAPL) - Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOaXFudWpCdkI2WU04ejI1WFdKVTY1Um8yRmw4UC1EekVWT0RBck9jcVJVa0trRGxHbDN1RzZXeE14ZlhKZTV0andJa29CdmtOenIwTk5ROTBPZXB3Z2tDbHN5aGZ4MERKVEhnLXVSVUNzVFpIS1h6bVExY05YbWZuQmFWS3ZLOVZoMzcyQXhyZlNIQnZ1elhjaA?oc=5",
+      "publisher": "Seeking Alpha",
+      "published_at": "Tue, 05 May 2026 12:53:21 GMT",
+      "sentiment_score": 0.963,
+      "sentiment_magnitude": 0.963,
+      "sentiment_label": "positive"
+    },
+    {
+      "source": "google",
+      "title": "Bank of America resets Apple stock price target after earnings - thestreet.com",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWTN0T3hCN0NVQ3hMT0U1Q0dLcGZoYWR0Y09MNmFIdjBLTk12SVNjVW9Vcll1d1B5bHJVejJZVVFFTGVKQ2lWWGtBS3ExeEZHekJuQllTTFR2RVJWUzk0aGh1ZFVMTFIwYmpHX3JudWRUYTVZRDFNYnYtaU80Y3Nya1dtdXNlNVJ5TnhwY2w5LUxiX0laS2ZuZndxTnhHUGhGV1VEWE1OSy0?oc=5",
+      "publisher": "thestreet.com",
+      "published_at": "Tue, 05 May 2026 02:07:00 GMT",
+      "sentiment_score": -0.0,
+      "sentiment_magnitude": 0.0,
+      "sentiment_label": "neutral"
+    },
+    {
+      "source": "google",
+      "title": "Westbourne Investment Advisors Inc. Reduces Holdings in Apple Inc. $AAPL - MarketBeat",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPeERlaERGX0lSRWpXRVg4cWJ6Y3c5NDhJbmFNY3RGNExzcC1pSGRWYXE0bkgxai1hWGJ4Q2ZIeS1UXy0xNldIVk9KRDNWOUlDRTFlTjd1RUZrSkU5NkxSNlgwUWhyMngwc3pyZDJYZXRycjhvWUV2VWVZbkJ2MUV4Wm5mbGwwc09YMUt0a2ZraHluOTBaLUp4X1VORG9PNEtDLTU2X2VkUnpHSDNqbDY4TzQtUGN4UC01SFpFMk5tbmFrdUN0NjE5ZDRB?oc=5",
+      "publisher": "MarketBeat",
+      "published_at": "Wed, 06 May 2026 12:07:24 GMT",
+      "sentiment_score": -0.0,
+      "sentiment_magnitude": 0.0,
+      "sentiment_label": "neutral"
+    },
+    {
+      "source": "google",
+      "title": "Can Apple Stock Withstand These Pressures? - Trefis",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNX1hqZUpfZmhkMThWTE5qd3BKRURwdXd6NjhzTFNsWWRnYUs0SU92Zk5GX1hWU2Y1M1RfMDdrWEZrZzJwU2xOSW1QSFdqaWJmOG5XNzFGc2wyTWlEa0xyMWV5Snc4cExxYXRNbFEwNmlIWmhjRmhrdE1fN3hnWnAyNzN5V3F4MkhnVGhUTjM0X3ktaGtldmY5V0FrWjdaZHViMU1abHBR?oc=5",
+      "publisher": "Trefis",
+      "published_at": "Tue, 05 May 2026 08:53:11 GMT",
+      "sentiment_score": 0.038,
+      "sentiment_magnitude": 0.038,
+      "sentiment_label": "neutral"
+    },
+    {
+      "source": "google",
+      "title": "Apple (AAPL) Stock Quotes, Company News And Chart Analysis - Investor's Business Daily",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSGNhelByVDlqTl9VZWRUUDhacVp6bW9OSGJIM3VGRUllM1ZYVU5zUlU2MWwwNU8zVEZoTjlKN2JTZTc1U3RuSGtCazlYV05hZDkwQTNTSE9penJ1MGJ4QzY5VXlCQ1d5VTlXelF1anVuM2pJTEFRWjZHRkswbDFrbzViNkVVSzh3THZpX2NHWXNkR3RzcVNqMA?oc=5",
+      "publisher": "Investor's Business Daily",
+      "published_at": "Mon, 04 May 2026 17:32:00 GMT",
+      "sentiment_score": -0.0,
+      "sentiment_magnitude": 0.0,
+      "sentiment_label": "neutral"
+    },
+    {
+      "source": "google",
+      "title": "Is Apple Inc. (AAPL) A Good Stock To Buy Now? - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTmpTa3h3ZndETmt6YkVVRzdRU09vaUhPcWU4TlVVaUpQekF0ekd2VVFBVXM3R1BWTUZSRVJ2S2FmZHQ4MFdUYUsxR3liM0dZWkllY1dRRm9fNk1ESkhtenRNenNOMHRyRURJbE9vX0syZ0xaTEwzMlhRY25qZ3dqbnRXVHhyUTU4U20yMjU5V2lCcU9v?oc=5",
+      "publisher": "Yahoo Finance",
+      "published_at": "Sun, 03 May 2026 18:11:19 GMT",
+      "sentiment_score": 1.0,
+      "sentiment_magnitude": 1.0,
+      "sentiment_label": "positive"
+    },
+    {
+      "source": "google",
+      "title": "Apple Siri Settlement Puts AI Marketing And AAPL Valuation In Focus - simplywall.st",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZUxDZmJVSFZTRkxNLWxHRGdEZG1vTDZqcTdfMF9NN1RFdkFtR1VLSkVFOEFEVEM2U2NlTkFNb2dfUlNld1lzOUNIdFhWTHZBazMycThyMXZfUmU4bjFmS2psSDlOYi1Nd1dxMkdpMy1QQUVJWTFOelJUZzJEVEw1bjdNdjctRzlWNkg3MUhGNjU3aEhna0pEVGxsOUdpUFkzdldmb2hGMHJoc2U5ZW5zSmJKdHU3N2cxX0xCMtIBwgFBVV95cUxQbldaN1VieVdDQnFTZFJZanNUR01jTHpVQ1dzRnNKVXI0X3Frbms4c2txT0d4UGVhM1hLSTM3RHhMallSRTNzVklWNVFScUttc1VWVVJ1bEVMYVgxT1FJSm9GS19WTzJGMF9CT3VNeWFTQkY5blctbGF0SkhpejBCbC1qSVR0eVg3dXhjU0Q5Vjd5YlRhZnA4QXk5aG1qX0dsdHVfYkVvUWxpYlNuaTc4dlBHbDlfVlBQUnNBejZmRjJ6dw?oc=5",
+      "publisher": "simplywall.st",
+      "published_at": "Wed, 06 May 2026 12:45:13 GMT",
+      "sentiment_score": 0.0,
+      "sentiment_magnitude": 0.0,
+      "sentiment_label": "neutral"
+    },
+    {
+      "source": "google",
+      "title": "Apple Dividend on May 14: How Much Will You Get Holding 100 AAPL Stock - Watcher Guru",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPRWlONWlvYzZKbWRtb2FkZkNFZXIzckRrOUhDd2NRV1Q0X0p3ZzJQeF9LV2dCdXpKZUJITmRQdVJvcEhYS2lIMU96M2c5SGFGTlVrMFdLaHptbE1BTUo0Q3JUdFJBbTR1VHJLOXhfcW84NzR5clBKaGRoNE9PM2VGR2ZKYmt2ZG53ZndVVktR?oc=5",
+      "publisher": "Watcher Guru",
+      "published_at": "Wed, 06 May 2026 09:53:42 GMT",
+      "sentiment_score": -0.0,
+      "sentiment_magnitude": 0.0,
+      "sentiment_label": "neutral"
+    },
+    {
+      "source": "google",
+      "title": "Apple Just Gave Investors a $100 Billion Reason to Rethink the AI Spending Race - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNdzNXNGlnV1pkdXF5bTRzNmllTHZxd1lLWE44WkdWeGZzWXptQksxbDFKdkNDZEt2cGYzbUV4WnF1Yk54QTlGNzBHOTlWeHJDQTVRNWl0bDI5Rk53a3I1VGhNaDFqSlNGcjd5ODVYSHRtd0lNSk9LeUp1aEtFV0tNR3RXZm96V20yZlZNU3p4TnhBUHdVdUtz?oc=5",
+      "publisher": "The Motley Fool",
+      "published_at": "Mon, 04 May 2026 12:08:00 GMT",
+      "sentiment_score": -0.009,
+      "sentiment_magnitude": 0.009,
+      "sentiment_label": "neutral"
+    },
+    {
+      "source": "google",
+      "title": "Apple (AAPL) Stock: Surges as iOS 27 AI Expansion Puts Siri and Apps in Focus - CoinCentral",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObzZaSmFOeWF5TERvQnBZdVlnaGtxcmR4aG1PejBMTDd4R1lVSXk2Z2RhRkZDZS00S3pxdm9iNXVIMUllV0VPVU01N3QwTzNZSXlSLTBUZFB3WTJ0ZlZUaVNDRFVINmtnanJjbTFmUFotbkNUdWpnci1SSkphYmQwVV9jVnctNzZ6ZWxvVzVlbHBkNENoU3FTcW43VmZTUk04?oc=5",
+      "publisher": "CoinCentral",
+      "published_at": "Wed, 06 May 2026 13:38:43 GMT",
+      "sentiment_score": 1.0,
+      "sentiment_magnitude": 1.0,
+      "sentiment_label": "positive"
+    }
+  ],
+  "llm_signal": {
+    "signal": "HOLD",
+    "confidence": "LOW",
+    "rationale": [
+      "Signal error: Client.__init__() got an unexpected keyword argument 'proxies'",
+      "Manual analysis required"
+    ],
+    "model_used": "meta/llama-3.3-70b-instruct",
+    "generated_at": "2026-05-06T18:08:50.630367+00:00",
+    "raw_response": null
+  },
+  "data_quality": {
+    "price_available": false,
+    "news_count": 10,
+    "yfinance_news": 0,
+    "google_news": 10,
+    "indicators_available": false,
+    "sentiment_method": "finbert"
+  }
+}

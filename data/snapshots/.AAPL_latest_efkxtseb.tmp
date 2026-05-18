@@ -1,0 +1,264 @@
+{
+  "snapshot_id": "AAPL_20260506_184031",
+  "ticker": "AAPL",
+  "timestamp": "2026-05-06T18:40:31.997343+00:00",
+  "refresh_type": "manual",
+  "price": {
+    "current": 287.06,
+    "open": 281.915,
+    "high": 287.8500061035156,
+    "low": 281.07501220703125,
+    "close_prev": 282.4,
+    "change_pct": 1.65,
+    "volume": 30982269,
+    "avg_volume_10d": 49387280,
+    "market_cap": 4216152377502.1973,
+    "pe_ratio": 34.711002,
+    "eps": 8.27,
+    "week_52_high": 288.6199951171875,
+    "week_52_low": 193.25,
+    "beta": 1.065,
+    "dividend_yield": 0.38,
+    "forward_pe": 29.99228,
+    "price_to_book": 47.859283
+  },
+  "technical": {
+    "rsi_14": 48.07,
+    "rsi_signal": "neutral",
+    "macd": -0.0435,
+    "macd_signal_line": -0.0053,
+    "macd_histogram": -0.0383,
+    "macd_crossover": "bearish",
+    "sma_20": 287.16,
+    "sma_50": 287.23,
+    "ema_12": 287.05,
+    "ema_26": 287.1,
+    "bb_upper": 286.72,
+    "bb_lower": 287.6,
+    "bb_mid": 287.16,
+    "bb_position": "middle",
+    "price_vs_sma20_pct": -0.03,
+    "price_vs_sma50_pct": -0.06,
+    "volume_vs_avg_pct": -100.0,
+    "trend": "bearish"
+  },
+  "sentiment": {
+    "mean_score": 0.215,
+    "magnitude_avg": 0.316,
+    "positive_count": 6,
+    "neutral_count": 13,
+    "negative_count": 1,
+    "label": "POSITIVE"
+  },
+  "news": [
+    {
+      "source": "yfinance",
+      "title": "The space ETFs prepping for liftoff ahead of SpaceX IPO",
+      "url": "https://finance.yahoo.com/video/space-etfs-prepping-liftoff-ahead-161500971.html",
+      "publisher": "Yahoo Finance Video",
+      "published_at": "2026-05-06T16:15:00Z",
+      "sentiment_score": 0.04,
+      "sentiment_magnitude": 0.04,
+      "sentiment_label": "neutral"
+    },
+    {
+      "source": "yfinance",
+      "title": "Micron stock is surging, hitting a new intraday record high. Why?",
+      "url": "https://finance.yahoo.com/video/micron-stock-is-surging-hitting-a-new-intraday-record-high-why-195211594.html",
+      "publisher": "Yahoo Finance Video",
+      "published_at": "2026-05-05T19:52:11Z",
+      "sentiment_score": 0.804,
+      "sentiment_magnitude": 0.804,
+      "sentiment_label": "positive"
+    },
+    {
+      "source": "yfinance",
+      "title": "Forget Tariffs: An Apple-Intel Deal Could Be the Biggest Manufacturing Story of the Trump Era",
+      "url": "https://247wallst.com/investing/2026/05/06/forget-tariffs-an-apple-intel-deal-could-be-the-biggest-manufacturing-story-of-the-trump-era/",
+      "publisher": "24/7 Wall St.",
+      "published_at": "2026-05-06T18:23:30Z",
+      "sentiment_score": 0.885,
+      "sentiment_magnitude": 0.885,
+      "sentiment_label": "positive"
+    },
+    {
+      "source": "yfinance",
+      "title": "iPhone owners could get up to $95 from a new Apple settlement",
+      "url": "https://www.cbsnews.com/news/apple-iphone-settlement-95-payment-how-to-claim/",
+      "publisher": "CBS News",
+      "published_at": "2026-05-06T18:08:46Z",
+      "sentiment_score": 0.556,
+      "sentiment_magnitude": 0.556,
+      "sentiment_label": "positive"
+    },
+    {
+      "source": "yfinance",
+      "title": "Apple Opens AI Platform To Rivals Across 2 Billion Devices",
+      "url": "https://finance.yahoo.com/sectors/technology/articles/apple-opens-ai-platform-rivals-175811422.html",
+      "publisher": "GuruFocus.com",
+      "published_at": "2026-05-06T17:58:11Z",
+      "sentiment_score": 0.025,
+      "sentiment_magnitude": 0.025,
+      "sentiment_label": "neutral"
+    },
+    {
+      "source": "yfinance",
+      "title": "Apple class action settlement could pay you money. See who's eligible",
+      "url": "https://www.usatoday.com/story/money/2026/05/06/apple-class-action-settlement-siri-ai-money/89958302007/",
+      "publisher": "USA TODAY",
+      "published_at": "2026-05-06T17:03:12Z",
+      "sentiment_score": 0.0,
+      "sentiment_magnitude": 0.0,
+      "sentiment_label": "neutral"
+    },
+    {
+      "source": "yfinance",
+      "title": "India's top factory hub hopeful, wary as film star Vijay set to take reins",
+      "url": "https://sg.finance.yahoo.com/news/indias-top-factory-hub-hopeful-164715916.html",
+      "publisher": "Reuters",
+      "published_at": "2026-05-06T16:47:15Z",
+      "sentiment_score": 0.002,
+      "sentiment_magnitude": 0.002,
+      "sentiment_label": "neutral"
+    },
+    {
+      "source": "yfinance",
+      "title": "Apple, Nvidia, Broadcom And This Dow Retail Behemoth Fire Up Breakout Watch",
+      "url": "https://www.investors.com/research/breakout-stocks-technical-analysis/nvidia-stock-apple-asml-google-dow-stock-walmart-lead-bout-breakout-index/?src=A00220&yptr=yahoo",
+      "publisher": "Investor's Business Daily",
+      "published_at": "2026-05-06T16:40:18Z",
+      "sentiment_score": -0.998,
+      "sentiment_magnitude": 0.998,
+      "sentiment_label": "negative"
+    },
+    {
+      "source": "yfinance",
+      "title": "Apple Explores New Chip Suppliers As Investors Weigh Supply Chain Risks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/apple-explores-chip-suppliers-investors-151908786.html",
+      "publisher": "Simply Wall St.",
+      "published_at": "2026-05-06T15:19:08Z",
+      "sentiment_score": -0.001,
+      "sentiment_magnitude": 0.001,
+      "sentiment_label": "neutral"
+    },
+    {
+      "source": "yfinance",
+      "title": "Apple to pay $250M to settle lawsuit over Siri’s delayed AI features",
+      "url": "https://finance.yahoo.com/sectors/technology/articles/apple-pay-250m-settle-lawsuit-151249649.html",
+      "publisher": "TechCrunch",
+      "published_at": "2026-05-06T15:12:49Z",
+      "sentiment_score": -0.0,
+      "sentiment_magnitude": 0.0,
+      "sentiment_label": "neutral"
+    },
+    {
+      "source": "google",
+      "title": "Apple: A Once-In-A-Generation Buy Signal Just Flashed (NASDAQ:AAPL) - Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOaXFudWpCdkI2WU04ejI1WFdKVTY1Um8yRmw4UC1EekVWT0RBck9jcVJVa0trRGxHbDN1RzZXeE14ZlhKZTV0andJa29CdmtOenIwTk5ROTBPZXB3Z2tDbHN5aGZ4MERKVEhnLXVSVUNzVFpIS1h6bVExY05YbWZuQmFWS3ZLOVZoMzcyQXhyZlNIQnZ1elhjaA?oc=5",
+      "publisher": "Seeking Alpha",
+      "published_at": "Tue, 05 May 2026 12:53:21 GMT",
+      "sentiment_score": 0.963,
+      "sentiment_magnitude": 0.963,
+      "sentiment_label": "positive"
+    },
+    {
+      "source": "google",
+      "title": "Bank of America resets Apple stock price target after earnings - thestreet.com",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWTN0T3hCN0NVQ3hMT0U1Q0dLcGZoYWR0Y09MNmFIdjBLTk12SVNjVW9Vcll1d1B5bHJVejJZVVFFTGVKQ2lWWGtBS3ExeEZHekJuQllTTFR2RVJWUzk0aGh1ZFVMTFIwYmpHX3JudWRUYTVZRDFNYnYtaU80Y3Nya1dtdXNlNVJ5TnhwY2w5LUxiX0laS2ZuZndxTnhHUGhGV1VEWE1OSy0?oc=5",
+      "publisher": "thestreet.com",
+      "published_at": "Tue, 05 May 2026 02:07:00 GMT",
+      "sentiment_score": -0.0,
+      "sentiment_magnitude": 0.0,
+      "sentiment_label": "neutral"
+    },
+    {
+      "source": "google",
+      "title": "Westbourne Investment Advisors Inc. Reduces Holdings in Apple Inc. $AAPL - MarketBeat",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPeERlaERGX0lSRWpXRVg4cWJ6Y3c5NDhJbmFNY3RGNExzcC1pSGRWYXE0bkgxai1hWGJ4Q2ZIeS1UXy0xNldIVk9KRDNWOUlDRTFlTjd1RUZrSkU5NkxSNlgwUWhyMngwc3pyZDJYZXRycjhvWUV2VWVZbkJ2MUV4Wm5mbGwwc09YMUt0a2ZraHluOTBaLUp4X1VORG9PNEtDLTU2X2VkUnpHSDNqbDY4TzQtUGN4UC01SFpFMk5tbmFrdUN0NjE5ZDRB?oc=5",
+      "publisher": "MarketBeat",
+      "published_at": "Wed, 06 May 2026 12:07:24 GMT",
+      "sentiment_score": -0.0,
+      "sentiment_magnitude": 0.0,
+      "sentiment_label": "neutral"
+    },
+    {
+      "source": "google",
+      "title": "Can Apple Stock Withstand These Pressures? - Trefis",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNX1hqZUpfZmhkMThWTE5qd3BKRURwdXd6NjhzTFNsWWRnYUs0SU92Zk5GX1hWU2Y1M1RfMDdrWEZrZzJwU2xOSW1QSFdqaWJmOG5XNzFGc2wyTWlEa0xyMWV5Snc4cExxYXRNbFEwNmlIWmhjRmhrdE1fN3hnWnAyNzN5V3F4MkhnVGhUTjM0X3ktaGtldmY5V0FrWjdaZHViMU1abHBR?oc=5",
+      "publisher": "Trefis",
+      "published_at": "Tue, 05 May 2026 08:53:11 GMT",
+      "sentiment_score": 0.038,
+      "sentiment_magnitude": 0.038,
+      "sentiment_label": "neutral"
+    },
+    {
+      "source": "google",
+      "title": "Apple (AAPL) Stock Quotes, Company News And Chart Analysis - Investor's Business Daily",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSGNhelByVDlqTl9VZWRUUDhacVp6bW9OSGJIM3VGRUllM1ZYVU5zUlU2MWwwNU8zVEZoTjlKN2JTZTc1U3RuSGtCazlYV05hZDkwQTNTSE9penJ1MGJ4QzY5VXlCQ1d5VTlXelF1anVuM2pJTEFRWjZHRkswbDFrbzViNkVVSzh3THZpX2NHWXNkR3RzcVNqMA?oc=5",
+      "publisher": "Investor's Business Daily",
+      "published_at": "Mon, 04 May 2026 17:32:00 GMT",
+      "sentiment_score": -0.0,
+      "sentiment_magnitude": 0.0,
+      "sentiment_label": "neutral"
+    },
+    {
+      "source": "google",
+      "title": "Is Apple Inc. (AAPL) A Good Stock To Buy Now? - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTmpTa3h3ZndETmt6YkVVRzdRU09vaUhPcWU4TlVVaUpQekF0ekd2VVFBVXM3R1BWTUZSRVJ2S2FmZHQ4MFdUYUsxR3liM0dZWkllY1dRRm9fNk1ESkhtenRNenNOMHRyRURJbE9vX0syZ0xaTEwzMlhRY25qZ3dqbnRXVHhyUTU4U20yMjU5V2lCcU9v?oc=5",
+      "publisher": "Yahoo Finance",
+      "published_at": "Sun, 03 May 2026 18:11:19 GMT",
+      "sentiment_score": 1.0,
+      "sentiment_magnitude": 1.0,
+      "sentiment_label": "positive"
+    },
+    {
+      "source": "google",
+      "title": "Apple Siri Settlement Puts AI Marketing And AAPL Valuation In Focus - simplywall.st",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZUxDZmJVSFZTRkxNLWxHRGdEZG1vTDZqcTdfMF9NN1RFdkFtR1VLSkVFOEFEVEM2U2NlTkFNb2dfUlNld1lzOUNIdFhWTHZBazMycThyMXZfUmU4bjFmS2psSDlOYi1Nd1dxMkdpMy1QQUVJWTFOelJUZzJEVEw1bjdNdjctRzlWNkg3MUhGNjU3aEhna0pEVGxsOUdpUFkzdldmb2hGMHJoc2U5ZW5zSmJKdHU3N2cxX0xCMtIBwgFBVV95cUxQbldaN1VieVdDQnFTZFJZanNUR01jTHpVQ1dzRnNKVXI0X3Frbms4c2txT0d4UGVhM1hLSTM3RHhMallSRTNzVklWNVFScUttc1VWVVJ1bEVMYVgxT1FJSm9GS19WTzJGMF9CT3VNeWFTQkY5blctbGF0SkhpejBCbC1qSVR0eVg3dXhjU0Q5Vjd5YlRhZnA4QXk5aG1qX0dsdHVfYkVvUWxpYlNuaTc4dlBHbDlfVlBQUnNBejZmRjJ6dw?oc=5",
+      "publisher": "simplywall.st",
+      "published_at": "Wed, 06 May 2026 12:45:13 GMT",
+      "sentiment_score": 0.0,
+      "sentiment_magnitude": 0.0,
+      "sentiment_label": "neutral"
+    },
+    {
+      "source": "google",
+      "title": "Apple Dividend on May 14: How Much Will You Get Holding 100 AAPL Stock - Watcher Guru",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPRWlONWlvYzZKbWRtb2FkZkNFZXIzckRrOUhDd2NRV1Q0X0p3ZzJQeF9LV2dCdXpKZUJITmRQdVJvcEhYS2lIMU96M2c5SGFGTlVrMFdLaHptbE1BTUo0Q3JUdFJBbTR1VHJLOXhfcW84NzR5clBKaGRoNE9PM2VGR2ZKYmt2ZG53ZndVVktR?oc=5",
+      "publisher": "Watcher Guru",
+      "published_at": "Wed, 06 May 2026 09:53:42 GMT",
+      "sentiment_score": -0.0,
+      "sentiment_magnitude": 0.0,
+      "sentiment_label": "neutral"
+    },
+    {
+      "source": "google",
+      "title": "Apple Just Gave Investors a $100 Billion Reason to Rethink the AI Spending Race - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNdzNXNGlnV1pkdXF5bTRzNmllTHZxd1lLWE44WkdWeGZzWXptQksxbDFKdkNDZEt2cGYzbUV4WnF1Yk54QTlGNzBHOTlWeHJDQTVRNWl0bDI5Rk53a3I1VGhNaDFqSlNGcjd5ODVYSHRtd0lNSk9LeUp1aEtFV0tNR3RXZm96V20yZlZNU3p4TnhBUHdVdUtz?oc=5",
+      "publisher": "The Motley Fool",
+      "published_at": "Mon, 04 May 2026 12:08:00 GMT",
+      "sentiment_score": -0.009,
+      "sentiment_magnitude": 0.009,
+      "sentiment_label": "neutral"
+    },
+    {
+      "source": "google",
+      "title": "Apple (AAPL) Stock: Surges as iOS 27 AI Expansion Puts Siri and Apps in Focus - CoinCentral",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObzZaSmFOeWF5TERvQnBZdVlnaGtxcmR4aG1PejBMTDd4R1lVSXk2Z2RhRkZDZS00S3pxdm9iNXVIMUllV0VPVU01N3QwTzNZSXlSLTBUZFB3WTJ0ZlZUaVNDRFVINmtnanJjbTFmUFotbkNUdWpnci1SSkphYmQwVV9jVnctNzZ6ZWxvVzVlbHBkNENoU3FTcW43VmZTUk04?oc=5",
+      "publisher": "CoinCentral",
+      "published_at": "Wed, 06 May 2026 13:38:43 GMT",
+      "sentiment_score": 1.0,
+      "sentiment_magnitude": 1.0,
+      "sentiment_label": "positive"
+    }
+  ],
+  "llm_signal": null,
+  "data_quality": {
+    "price_available": true,
+    "news_count": 20,
+    "yfinance_news": 10,
+    "google_news": 10,
+    "indicators_available": true,
+    "sentiment_method": "finbert"
+  }
+}

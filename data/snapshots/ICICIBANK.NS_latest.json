@@ -1,0 +1,175 @@
+{
+  "snapshot_id": "ICICIBANK.NS_20260507_040921",
+  "ticker": "ICICIBANK.NS",
+  "timestamp": "2026-05-07T04:09:21.278620+00:00",
+  "refresh_type": "manual",
+  "price": {
+    "current": 1285.1,
+    "open": null,
+    "high": 1289.9,
+    "low": 1276.2,
+    "close_prev": 1263.4,
+    "change_pct": 1.72,
+    "volume": 3150337,
+    "avg_volume_10d": null,
+    "market_cap": null,
+    "pe_ratio": 17.206905,
+    "eps": 74.72,
+    "week_52_high": 1500.0,
+    "week_52_low": 1187.6,
+    "beta": 0.28,
+    "dividend_yield": 0.0086,
+    "forward_pe": 14.181498,
+    "price_to_book": 2.5359674
+  },
+  "technical": {
+    "rsi_14": 58.56,
+    "rsi_signal": "neutral",
+    "macd": 1.9662,
+    "macd_signal_line": 1.6576,
+    "macd_histogram": 0.3086,
+    "macd_crossover": "bullish",
+    "sma_20": 1282.52,
+    "sma_50": 1280.72,
+    "ema_12": 1284.98,
+    "ema_26": 1283.02,
+    "bb_upper": 1290.37,
+    "bb_lower": 1274.66,
+    "bb_mid": 1282.52,
+    "bb_position": "middle",
+    "price_vs_sma20_pct": 0.21,
+    "price_vs_sma50_pct": 0.35,
+    "volume_vs_avg_pct": -100.0,
+    "trend": "bullish"
+  },
+  "sentiment": {
+    "mean_score": 0.234,
+    "magnitude_avg": 0.386,
+    "positive_count": 3,
+    "neutral_count": 6,
+    "negative_count": 1,
+    "label": "POSITIVE"
+  },
+  "news": [
+    {
+      "source": "google",
+      "title": "SEBI issues warning to ICICI Bank (NYSE: IBN) on depository compliance - Stock Titan",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZkotVmVHQUhEdWgzOGtYSS02OTRCR3FBODVaRXRtdGtBNVhYRFpPRWs3VTdZSVVtUklqWnBSVEE4S3FERS1tbmEyWEJBSzVfTnFfZGJCTkdxS0NLYUJ2RFpTRHBiTUVZVXQ0dlpoLTh5VFhjWk5YcHc2VWhwRmJEckZmVnVNekhmMVVqR1lxcnlZZk41MGJqTUhQZVZEc3pIcXpoTUNBMFdsX0JjSkE?oc=5",
+      "publisher": "Stock Titan",
+      "published_at": "Wed, 06 May 2026 10:01:36 GMT",
+      "sentiment_score": -0.08,
+      "sentiment_magnitude": 0.08,
+      "sentiment_label": "neutral"
+    },
+    {
+      "source": "google",
+      "title": "Stock market news today live updates: Nifty below 24,100, Sensex falls 150 points; HDFC Bank, ICICI Bank top losers - MSN",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPcDZpRUE5TExUYU9PdUFPX3RUZE1jWUMyLUZXcUtQYjZaRG9taDVWSnB0UHpPaXBMRG9ERnJVcWI1a1oxTGliUm1acDYzNXpaa1Ewc3hXY1d1WjNmdm5CVDZ1XzE1N0dJang0TXBveDNTVy02ZVFhVUc5OXJwYWt3dlY3U08zUldybHAySHFvZEkwOEVCeXRnQ1FreDJzcERmTlE3N1hOQlppTXNkanpHd3paaFNLblV0eFJKVnRWSU15cHJaem93RzJYRXBkR0g5bE1BTS02QThZNUt3cHhfcWJfZUQ1aURCTUo2MldaZ1p1UFBPNVE?oc=5",
+      "publisher": "MSN",
+      "published_at": "Wed, 06 May 2026 19:17:24 GMT",
+      "sentiment_score": 0.0,
+      "sentiment_magnitude": 0.0,
+      "sentiment_label": "neutral"
+    },
+    {
+      "source": "google",
+      "title": "ICICI Bank Receives SEBI Warning Over Depository Participant Compliance, Sees No Material Impact - TipRanks",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPS1g4X1NlVFVMUUNMaDI0MnZsLV9GbnFwZnNSbWN6OFI5cnJZc2t6OUJlMVJjMlhZRnlKTk1CbFhTYlZLV3dTOHNyR2NJUTlHeWdVd1hnNWNKX2ZaSWFnR1B4ZkxnY3p2NWZwdS05UjEyVzVyYWpZTkhnYXhmVXJRTDhDRXlZNnhkbkFTUmxrWC1yNW9ZTFllRTY4dUZ5WWJZUGpmVVBWeU5Ta1NtTGZNV1ctSkdYZ2VtS2JXeUV1ZWZ2bWgzWDVPdEhHbk1tMW00aHhId1VTYlByakpoMzNuSA?oc=5",
+      "publisher": "TipRanks",
+      "published_at": "Wed, 06 May 2026 10:32:24 GMT",
+      "sentiment_score": -0.002,
+      "sentiment_magnitude": 0.002,
+      "sentiment_label": "neutral"
+    },
+    {
+      "source": "google",
+      "title": "ICICI Bank (IBN): Best Indian Stock to Buy According to Hedge Funds - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObzVnWnpDc1Nld09uSm92SjZ3S2dBZDBKOFltSjNZemlxQnBpNDRMcGljNk1UcjdmMWRCRTVLU0JsVGtlaFpKRWM4cHFvVjcyYm04ZVJxQ2lvMU42cjhlYVFuWmVQNEhrTktDSkhDVFhwS3pTTERmTlpsVzc1eFVaOWFaUVV3SEFPT2haOTZRcEtiOFBULUE?oc=5",
+      "publisher": "Yahoo Finance",
+      "published_at": "Fri, 24 Apr 2026 07:00:00 GMT",
+      "sentiment_score": 0.103,
+      "sentiment_magnitude": 0.103,
+      "sentiment_label": "neutral"
+    },
+    {
+      "source": "google",
+      "title": "ICICI Bank stock gains after Q4 profit beats Street, brokerages bullish on strong growth and low credit costs - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPd3ctWUpXTFRpX242T3g5ZjJhWDJ0VGVmVDBnVHR0RVQyUG9TTWw3TVlJS0RkSzlOeUZBZXZBYkRPS1BKZjR4bHhqajhCeEotUjJCNHVpZ1FhbVFMZ3E2ajhhbzNuNlNTd2JBUWV5ZGZtX0kyQzV5S1ZSVmdsRHh2Ul9qdlI5NWNOYUpDS29UcUplUU45WnI4R2NCNHhneU1lc1RteUhGZUk4bUpoOUNyclBBT3BDRHF5V1ZxTE1YSkxjU3FzUjNGMElxUjNaM3ZqZXFUcDRfdE5BTFdMNTM2NXJ0RVdyREdRc1RzS1NkOUFkRTFrYTBla3pucm9HMXFn?oc=5",
+      "publisher": "TradingView",
+      "published_at": "Sun, 19 Apr 2026 07:00:00 GMT",
+      "sentiment_score": 1.0,
+      "sentiment_magnitude": 1.0,
+      "sentiment_label": "positive"
+    },
+    {
+      "source": "google",
+      "title": "Nomura raises ICICI Bank stock price target to INR1,620 on earnings - Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQekRqemxHMHdLbGpHbDQzcUg2a0IwYWNQU0NvSHl4N3lZakRDbnhFa2Y1anBUb0o4eS0zYWhNMmxWWWw0cVdaNkR0dEJFNHRaT0tUTzk5bVhoeEIwSmxZTGdkUXVBNUd4eGhrU2FuOEpDT0FFSXc1RzBtT3ZjVVdZSXJUQ19BV1l0Q0R0STE2ZGtrbUJRMGI5TjZEUVJ4TlA3SXdsMk9TUUI1QldZbzFpVEc1Ym10TW5KQUpOVTBRMTdkSVVx?oc=5",
+      "publisher": "Investing.com",
+      "published_at": "Mon, 20 Apr 2026 07:00:00 GMT",
+      "sentiment_score": 0.997,
+      "sentiment_magnitude": 0.997,
+      "sentiment_label": "positive"
+    },
+    {
+      "source": "google",
+      "title": "Rakesh Jha Sells 45,000 Shares of ICICI Bank (NYSE:IBN) Stock - MarketBeat",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcjB4LWo3RzkwRmxEU09HazhMQWV0NUNIUnlJWjlMYTZsbjVuQndVRnFsUE5fYmxyaWVVcUpLclpDTDRIQWFGRUVvd2ItZ3R3d25UMVUtWTlPTlJPUWE2TTVKYUVtcUduMzlTajdxZ1B1RDE4Y19JblcwLWlZTjhjOFE0VjM3WWxFSmJIZ054YVd5S0RVcWVxbUU2aUNkTGhtRVBVVjlOMk02T1kyZy1DZA?oc=5",
+      "publisher": "MarketBeat",
+      "published_at": "Fri, 24 Apr 2026 07:00:00 GMT",
+      "sentiment_score": -0.0,
+      "sentiment_magnitude": 0.0,
+      "sentiment_label": "neutral"
+    },
+    {
+      "source": "google",
+      "title": "ICICI Bank: Strong Growth, But Emerging Risks Cap Upside(Rating Downgrade) - Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcldtNmc2Vi11cVV6VkNWci1OUzFiWUhELWZzV1BCYVk1bGRNaW8zQnJkS01pbWltV21Bcld1aGExTXRYZnBheTE2WnFLYURfNmotVV9EVjdyMlpDUTJwaFNScS1TZWJyc056d3E1eEVJSzM1SDdRMDcyX1k3Vm5UcC04STNIMFdaLWNTSW5NekRyZ0ZoLXF1TkVNRG9PYmcyWVpz?oc=5",
+      "publisher": "Seeking Alpha",
+      "published_at": "Tue, 21 Apr 2026 07:00:00 GMT",
+      "sentiment_score": 1.0,
+      "sentiment_magnitude": 1.0,
+      "sentiment_label": "positive"
+    },
+    {
+      "source": "google",
+      "title": "ICICI Bank Announces Retirement of Independent Director Radhakrishnan Nair - TipRanks",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPU2xkRGR3VVd4SUZRLVhDeFdJcF9WRlB1eEJNdFk2eF9DQkt1ZGpvZ3AyZmk4ejlvX1c3cWNuWHhkRmtJZHZwMUhjc0ZZYnkxTTd1VWkzNmdxbjMzMm8wUHRGWkFNbENkNVpIZnlIRDZuR1FfdzMtSHNhVWs2MFAyTDl4UkZmTjZOWmxBT2E5MjZtUDFCWlVvNHhTTHhad2VtdTNVSHBpUE5tUmFnRzFZeTZMU1VkM2R3Sk9aUTNQOFNXWFpHeG9B?oc=5",
+      "publisher": "TipRanks",
+      "published_at": "Mon, 04 May 2026 10:30:16 GMT",
+      "sentiment_score": 0.0,
+      "sentiment_magnitude": 0.0,
+      "sentiment_label": "neutral"
+    },
+    {
+      "source": "google",
+      "title": "BT closing bell | Sensex settles 251 pts lower, Nifty below 24,050; ICICI Bank, Eternal lead index losers - MSN",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPRTI4a3RvSlFXSUtnYTFsOS1QVGdtbnNISFFCQnhIbkRTYjU5dmRUbGgwU0hsNHNIVnY3YnB4eXRYN2p5UWtQVko3Z3Q2b0hJVktMbThwdHd1MHZncnZiZ3psZkV4cWFqa25LMmlBNXFqS09iZktVZHYxOS1uQU8wUHRqR29xeV84TmdwSV9FUWxfY2FMbGI2ODlVczdQYWtoYWFkRGM5bVE4SEhvWHBWVVg3WWpIUWtVYkRPQnZCeDJvM2FWdE9CTWFYdGhjZUNORUdwUkphMDhxNl9hTWc1cnNqamVmbUw4eVU0?oc=5",
+      "publisher": "MSN",
+      "published_at": "Wed, 06 May 2026 11:51:03 GMT",
+      "sentiment_score": -0.673,
+      "sentiment_magnitude": 0.673,
+      "sentiment_label": "negative"
+    }
+  ],
+  "llm_signal": {
+    "signal": "BUY",
+    "confidence": "MEDIUM",
+    "rationale": [
+      "The stock's trend is bullish, with a positive MACD and SMA20 and SMA50 indicating a potential upward momentum.",
+      "Sentiment analysis shows a positive mean score, with more positive news headlines than negative, including recent profit beats and bullish brokerages.",
+      "Although the P/E ratio is relatively high at 17.20, the EPS is strong at 74.72, and the beta is low at 0.28, indicating a relatively stable stock with potential for growth."
+    ],
+    "model_used": "meta/llama-3.3-70b-instruct",
+    "generated_at": "2026-05-07T06:09:04.277912+00:00",
+    "raw_response": "```json\n{\n  \"signal\": \"BUY\",\n  \"confidence\": \"MEDIUM\",\n  \"rationale\": [\n    \"The stock's trend is bullish, with a positive MACD and SMA20 and SMA50 indicating a potential upward momentum.\",\n    \"Sentiment analysis shows a positive mean score, with more positive news headlines than negative, including recent profit beats and bullish brokerages.\",\n    \"Although the P/E ratio is relatively high at 17.20, the EPS is strong at 74.72, and the beta is low at 0.28, indicating a relatively stable stock with potential for growth.\"\n  ]\n}\n```"
+  },
+  "data_quality": {
+    "price_available": true,
+    "news_count": 10,
+    "yfinance_news": 0,
+    "google_news": 10,
+    "indicators_available": true,
+    "sentiment_method": "finbert"
+  }
+}

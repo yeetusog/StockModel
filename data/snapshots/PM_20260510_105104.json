@@ -1,0 +1,164 @@
+{
+  "snapshot_id": "PM_20260510_105104",
+  "ticker": "PM",
+  "timestamp": "2026-05-10T10:51:04.394201+00:00",
+  "refresh_type": "manual",
+  "price": {
+    "current": 170.99,
+    "open": null,
+    "high": 172.245,
+    "low": 170.31,
+    "close_prev": 166.38,
+    "change_pct": 2.77,
+    "volume": 3040698,
+    "avg_volume_10d": null,
+    "market_cap": null,
+    "pe_ratio": 24.0831,
+    "eps": 7.1,
+    "week_52_high": 191.3,
+    "week_52_low": 142.11,
+    "beta": 0.393,
+    "dividend_yield": 0.0344,
+    "forward_pe": 18.693316,
+    "price_to_book": null
+  },
+  "technical": {
+    "rsi_14": 64.84,
+    "rsi_signal": "neutral",
+    "macd": 0.078,
+    "macd_signal_line": 0.0108,
+    "macd_histogram": 0.0672,
+    "macd_crossover": "bullish",
+    "sma_20": 170.61,
+    "sma_50": 170.69,
+    "ema_12": 170.78,
+    "ema_26": 170.71,
+    "bb_upper": 171.07,
+    "bb_lower": 170.14,
+    "bb_mid": 170.61,
+    "bb_position": "near_upper",
+    "price_vs_sma20_pct": 0.22,
+    "price_vs_sma50_pct": 0.18,
+    "volume_vs_avg_pct": -100.0,
+    "trend": "neutral"
+  },
+  "sentiment": {
+    "mean_score": 0.14,
+    "magnitude_avg": 0.143,
+    "positive_count": 2,
+    "neutral_count": 8,
+    "negative_count": 0,
+    "label": "NEUTRAL"
+  },
+  "news": [
+    {
+      "source": "google",
+      "title": "Philip Morris Q1 earnings on deck: What to expect - MSN",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRU9EMzQ4Sk5LNmZKcDliaFh4bFo3cUIzWEZncTVtOTEzV0hkSmxKMndPQmV6NUdlRVdGUHhOSkxOTjBWNTFoOEZ4bjVUdFRxLWt1T2FlUWpsd0h3YjVnZkRiamRoU2tfZVFsczR1Y01TRVdmTy1aNUxyY29uUjdCN2YwSUFUdUtXd3k3M2xOLWNFa1dSVkY0eEg5Zk5RcEhjbEVLLQ?oc=5",
+      "publisher": "MSN",
+      "published_at": "Tue, 21 Apr 2026 17:26:57 GMT",
+      "sentiment_score": 0.013,
+      "sentiment_magnitude": 0.013,
+      "sentiment_label": "neutral"
+    },
+    {
+      "source": "google",
+      "title": "Philip Morris International Inc. (PM): Moving Towards High Margin, Smoke Free Tech - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOM1NLUVVNMkFKVVl2akRyOWQ3RWlIbWJiTXBGN2FBRTNsMno1dmtXTHp3R2FqdGFCVV9MSXpoMXktYTRRa0xrRVhkc0xNOHVlUnZHdlQtdEh0Sl9WeTZ1NWJpaTVzZGNqcm1mT1YzMGNtTS1MeG11dGNycmhYYUgwQ09MSEc4UTdtNUV4bGZsSmpUZFV0SHNES1hUdlYteEpF?oc=5",
+      "publisher": "Yahoo Finance",
+      "published_at": "Sun, 26 Apr 2026 07:00:00 GMT",
+      "sentiment_score": -0.006,
+      "sentiment_magnitude": 0.006,
+      "sentiment_label": "neutral"
+    },
+    {
+      "source": "google",
+      "title": "Philip Morris: IQOS Just Passed Marlboro. Here’s Why the Stock Could Hit $240. - TIKR.com",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcG5vUzdXcVUyVUwtc1RuWHJoLTBKSHVsRWxnWDhxUElOZGU2aFNhRTdXV3pEbXYwdnl0ajk5ajZINXNVaE5IeW5ISFllOGt5S1VsVWRDcWVuV0V0UWcyOXAxeFJPQVpBb0taWGV6N19tZzZWZmxUWlROdFc5Vkt2WFA0a0tLNzB3SElRM2Nhek5WMHNybmRxRk8tb2VaNVpN?oc=5",
+      "publisher": "TIKR.com",
+      "published_at": "Wed, 06 May 2026 18:25:40 GMT",
+      "sentiment_score": -0.0,
+      "sentiment_magnitude": 0.0,
+      "sentiment_label": "neutral"
+    },
+    {
+      "source": "google",
+      "title": "Goldman Sachs resets Philip Morris stock target | PM - thestreet.com",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNWXRlTVBYbFFhWFEzRDh4bDJyRHBac0ZRcThBam16M3ZaeHZ6QnZfcGE5cWNDTkpfQ3VyeW5sRjlpdlR6ZHFRVkJKR09wX3N0N0JvX0tIQTItWkRDTUxBOTcxR1RQWU9aZkR2UlFsSnZvNm83VFFNOEUzcm1MM2xDV3V6SGhuNXpTQXJxRHFvdGthOUpH?oc=5",
+      "publisher": "thestreet.com",
+      "published_at": "Wed, 22 Apr 2026 07:00:00 GMT",
+      "sentiment_score": -0.0,
+      "sentiment_magnitude": 0.0,
+      "sentiment_label": "neutral"
+    },
+    {
+      "source": "google",
+      "title": "Director Werner Geissler awarded 1,119 PMI (NYSE: PM) shares - Stock Titan",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxONW5MeWZBczU0YzVpVWdtMmM0aHFOUnVmTUR3WkhTN3hnemFEdGNxNnljOHVjRFN3dXlRSlVaaDhzRjQ1dXdmeU5pd0h6czFwWGlsc3htd2tFX2tkRDZMMW9fV2ktMU9CaEpaajJ4aWZRc1owS1lmRGVYY1E3c2c4VnVTeUtqb3pzdUlKTVJzM3d3NVpobXJ2MVg3QkVUYXZVejlfRktHOXJMekdyUHhZMDF0aVBMN0h2WnZiSHZYXzE?oc=5",
+      "publisher": "Stock Titan",
+      "published_at": "Fri, 08 May 2026 18:01:18 GMT",
+      "sentiment_score": -0.0,
+      "sentiment_magnitude": 0.0,
+      "sentiment_label": "neutral"
+    },
+    {
+      "source": "google",
+      "title": "Philip Morris: Room To Run Toward Fair Value (NYSE:PM) - Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbGhLRXhwSjM2VHo3QUR0bGJGUUh2dXRzWVp1YVhMR3YzSk5xbGNXTWVGcTBMbm1WeFBOUWY1anhycHhuUW1JTWhRSmVtZnloV0c4d09mTnVEdlVGWVNiYW9vNEhXUGcxMVZtT2JrYkt3RWdoM1FXUml5QXNoRnlEUmwtb0VhMlByMmttMA?oc=5",
+      "publisher": "Seeking Alpha",
+      "published_at": "Tue, 05 May 2026 12:00:00 GMT",
+      "sentiment_score": 0.404,
+      "sentiment_magnitude": 0.404,
+      "sentiment_label": "positive"
+    },
+    {
+      "source": "google",
+      "title": "Is Philip Morris International Stock Poised for a Rally? - Trefis",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTTFzU3gxMFJHRE5vVEJaOG1EWTY2OXB6d0VEVFhPZXU2eEhGbHR4bDhFYU9yTDg0V3pOajZ4cGxTTHEwNkV6aFVnSDdfbDUxUFpxcDJaSUp4NEs3TVhOWkxNMnlPelVJOTJuRW9YVkJGVDI3RGZ1TjRxenNTZzgyR2tYWEtxVzJJUWdQMWRYVUFqbEduWHo5X3NUTkZ3SXRmemk0d1hJa2Z2UjBMX0RrR2tRcHB1dw?oc=5",
+      "publisher": "Trefis",
+      "published_at": "Wed, 15 Apr 2026 07:00:00 GMT",
+      "sentiment_score": 1.0,
+      "sentiment_magnitude": 1.0,
+      "sentiment_label": "positive"
+    },
+    {
+      "source": "google",
+      "title": "Philip Morris (PM) director Shlomo Yanai granted 1,119 shares in stock award - Stock Titan",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUms1NGoxRnBlc3F2Qlg1ZGxXZ0RrdEpTR1R4NmdmMnI4UWFFMlFGNm0wVWRfZng2UDJ1QjRvTXQzRnQ1TkhZODFKM3B1Nk5WZXhmZGRaWFM4YXl6WmdWSDF5TGxRMDB4RjM1WHRSREFMbTk1VEpiNG9LdnVhN1dpU2o1Q2JmckRFT0xWQUxFZ29XZ3JnRXZnOGJ4QUM3WThza09sUFdiblA0b2c2a0VZcmx6TkpPMWd1R2h3R2N6YkI?oc=5",
+      "publisher": "Stock Titan",
+      "published_at": "Fri, 08 May 2026 18:00:27 GMT",
+      "sentiment_score": -0.0,
+      "sentiment_magnitude": 0.0,
+      "sentiment_label": "neutral"
+    },
+    {
+      "source": "google",
+      "title": "Philip Morris Q1 Earnings on Deck: Key Factors You Should Understand - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONXRGQ2JNNUdhc2kzUzE5UDJ3MUEyZkplMU14N2VlVGFFQ1hVWXZka2I1SzZFNkFGNktiZVE1M1didkw3UE9xV3dud0dSUVVST3lrWG9JV0o0ZzBkSkEySmhyWEFMeXI1aldrQWJWWFBIbUxuZzhKRmsySEtJU2RmTVplU3lGMEVTRkF1V0tNMUc4ak9fQ1NEc3JGWQ?oc=5",
+      "publisher": "Yahoo Finance",
+      "published_at": "Thu, 16 Apr 2026 07:00:00 GMT",
+      "sentiment_score": -0.008,
+      "sentiment_magnitude": 0.008,
+      "sentiment_label": "neutral"
+    },
+    {
+      "source": "google",
+      "title": "At annual meeting, Philip Morris points to nearly $17B smoke-free sales - Stock Titan",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOYlhVYXp1Qzd4alJhZG9FeTFJVWlWMkV2MWlGTXFtb0ZTRTVWVm9xMVZqdE5qNUhacVgtc203ZXZ0SnBTTXQ4ZXpHa1hPWUlGMDZxeUtNcTVILWhzQmI0QkhTS2w5Mmcwc3l1U2JkeFV3bzlDeENMamQyZzBTSFIzM29VWHZjUEh4dnBrNlhQRkZET3F5NmgweHBfWENTQ04zd19TNVBQbzVwaTZka3JOS3V3d0ZsRGdh?oc=5",
+      "publisher": "Stock Titan",
+      "published_at": "Wed, 06 May 2026 13:44:00 GMT",
+      "sentiment_score": 0.0,
+      "sentiment_magnitude": 0.0,
+      "sentiment_label": "neutral"
+    }
+  ],
+  "llm_signal": null,
+  "data_quality": {
+    "price_available": true,
+    "news_count": 10,
+    "yfinance_news": 0,
+    "google_news": 10,
+    "indicators_available": true,
+    "sentiment_method": "finbert"
+  }
+}

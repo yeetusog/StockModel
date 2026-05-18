@@ -1,0 +1,7 @@
+
+{
+  "name": "get_stock_signal",
+  "description": "Returns latest AAPL market snapshot with price, sentiment, indicators, and LLM signal",
+  "inputSchema": { "type": "object", "properties": {} },
+  "endpoint": "http://localhost:8000/data/latest"
+}

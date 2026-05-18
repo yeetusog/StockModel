@@ -1,0 +1,164 @@
+{
+  "snapshot_id": "TATAPOWER_20260507_040630",
+  "ticker": "TATAPOWER",
+  "timestamp": "2026-05-07T04:06:30.078783+00:00",
+  "refresh_type": "manual",
+  "price": {
+    "current": null,
+    "open": null,
+    "high": null,
+    "low": null,
+    "close_prev": null,
+    "change_pct": null,
+    "volume": null,
+    "avg_volume_10d": null,
+    "market_cap": null,
+    "pe_ratio": null,
+    "eps": null,
+    "week_52_high": null,
+    "week_52_low": null,
+    "beta": null,
+    "dividend_yield": null,
+    "forward_pe": null,
+    "price_to_book": null
+  },
+  "technical": {
+    "rsi_14": null,
+    "rsi_signal": null,
+    "macd": null,
+    "macd_signal_line": null,
+    "macd_histogram": null,
+    "macd_crossover": null,
+    "sma_20": null,
+    "sma_50": null,
+    "ema_12": null,
+    "ema_26": null,
+    "bb_upper": null,
+    "bb_lower": null,
+    "bb_mid": null,
+    "bb_position": null,
+    "price_vs_sma20_pct": null,
+    "price_vs_sma50_pct": null,
+    "volume_vs_avg_pct": null,
+    "trend": null
+  },
+  "sentiment": {
+    "mean_score": 0.274,
+    "magnitude_avg": 0.326,
+    "positive_count": 3,
+    "neutral_count": 6,
+    "negative_count": 1,
+    "label": "POSITIVE"
+  },
+  "news": [
+    {
+      "source": "google",
+      "title": "Stock Picks Today: PB Fintech, NTPC, Tata Power, Bajaj Auto, Paytm And More On Brokerages' Radar - NDTV Profit",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOWUlWOTlxbEFrYmlEZ1NRWG54a0I4SUlHc044aE5EMmxMc2J0QnYwVzJrbmxrOHFkMUdMdGFhRndocEZCQjNWWXZPVkEzbFkxaDczY01JemhtM1huY0NJOTVxQi1vLTIzU0NvZk8yMERPTWhBOVRlRWdpMzlxb252VzRCQi1RdWpUOVFUQUdNTk1taXBqelFlZDdsQzNPR1RxOFpzSEFJMEsxMXZTN2tpVGFxZmtoMVpxVWE2QW14dGg1V3pkUm1ISTdleE1uWVXSAdcBQVVfeXFMT3FyUVFNWDAxZTc2dGVuTmRFaVpLRmVQT2M3Ni10Yk1xdk1FQlpISXJySFhkUG85QzN0M0I5a2dfZkh0Q3RCbGN5N2UxWXhoMlRXa1Bmd3U5SDFYNlp6YnN1YjNaQl8tRDR4Tl83dUFTOGtZNHBvdG1WNEl0eFNsWlZJRGFCYm1kWGkzVkpHbHhCV2FpLV9HY2ZQejB5NUp3U3dBU01MbWdPM0pFYm9PQ191VWhzQkd5VmNLbVJEQVU3S3J6SDZ3OFVweWExTVZ0a1gySHh1bjQ?oc=5",
+      "publisher": "NDTV Profit",
+      "published_at": "Thu, 07 May 2026 02:07:07 GMT",
+      "sentiment_score": 0.001,
+      "sentiment_magnitude": 0.001,
+      "sentiment_label": "neutral"
+    },
+    {
+      "source": "google",
+      "title": "Stock Radar: Breakout from a falling trendline makes Tata Power stock an attractive buy; hits fresh 52-wee - The Economic Times",
+      "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxQUHR2cW5wa0I2d0ZIQzVxM3ZqNXdQdE9iQ1ZxbVBHcUgwMnFZbGp0VDlLeXV2ZGQ5azZFU21WZ3FyMkVyaS1BSmlaR2xPVW9DR0gzU2xNaHdlRnp5ODRGOEdpUmZjV1h5SjU4MFJxdVI3MWhkdnJIRnJNdjdmNEV2T3U4eng3VTVVcktaWkttZEVaazdPSFdmOHhJVExRQUtpdExLSHRwQzY0eGppZ3ZfM2NyU1FpZGJUZklBdDRVU1VuaDY5RmgtbnJCVkxXRDRya1ctMzZUREp2SWlHSzQ2SElSd2UwLVlDNnZoV0VfSG9XN0dhdUN3Y0JpUHlneXFlbS1VQV9rRERaXzQzUHFHNjFwdjE2UlhTNnhPWWlR0gGjAkFVX3lxTE1lQ0FldnpFbWJLMjJFYWJhMlN6TzJ0dFYzd25fUzM3OXdCX1B3RXV4SXdsRkwwYkNtUU9vY1pjb25BbHRsaGw5UGxjUmZZMm50VlkwM0QzMmVGalZUa1dvMUxSX3BMaHJfZENsOUJLRUdZa3JpY3B2blp3UzJiYjI0aDMzUGNFQm5saHd6Q2gzMy0yVlUyT19uSWN4SGhMWFcxOHYzMjVud0gxdzRFV0oxRUY1SkxDTXV0dUFsemhmMDYyWjFKT2hqci1uVTYyalVTcThtLWw4RU81TFZzVHpnSDJETllfU0JzVTZ3bTZxMVFBVGJEYWR0d29BOGRLa3V4eXZNbTNPOE5PbEoxenYxblA0VzVuakZNcjlzWVF6RXZtOA?oc=5",
+      "publisher": "The Economic Times",
+      "published_at": "Mon, 20 Apr 2026 07:00:00 GMT",
+      "sentiment_score": 1.0,
+      "sentiment_magnitude": 1.0,
+      "sentiment_label": "positive"
+    },
+    {
+      "source": "google",
+      "title": "Groww, Cochin Shipyard, Tata Power: Trading strategy for three stocks| Daily Calls on BTTV - Business Today",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPQ0wxUGFwLW05bWJQNFFlOG91RURKUmtFUGZFY2FIOXJGaFpSaE40ZmJ3MHU3V0xHdF9kajVSVzRYR0pha3RObzJUclg0MWY5QXRqMFF3SFJqQUJlMlV4Sld6bDNXWnJZS09VdE1kRGU1ZXF3NXliYjZtVGlmU25OOWZTTm1WQy12eWlRQ09TVWpBWl9pOXZhQjBxdm95M2J0ZWk2MUJXOHJJUjY0S1hHNzIyOTZ2THRSd3lCeWR6eUNHT0sxQ093ZGtkY0pEUUFzb2QwNTVUdG5CN2dfYjRzTGJ3NFkxcE9POEHSAe8BQVVfeXFMTUNoTFR5UXpHMEFlNmdXbDZnS0tjaldrZjFKZGdzbTZJTW5HbVE5TVdxSWJuNmNtWG9kekhvNk1ITUJvMzMtcERfQVZZWm1YbEtTM1JxcE1fZ0pBTHZGaDlRVVNvRWxYcVRhNEFfdDVnRkQzcVFFYzhKY3VLMnR2NTRvSXlMYTV4dkpKQzYyT0RuMGFXQXdBd3NUd3dBcjItYlpBdncyUG03cktTS3B1djBfSE9jUWNCNGpDRC0tR0tueWcwLWZ5ZWJrOU9vZE5PbjlKYXphcFFuMTFlNTh1dS1jSU1idGszdjBjTGNzeGM?oc=5",
+      "publisher": "Business Today",
+      "published_at": "Wed, 06 May 2026 12:07:23 GMT",
+      "sentiment_score": -0.0,
+      "sentiment_magnitude": 0.0,
+      "sentiment_label": "neutral"
+    },
+    {
+      "source": "google",
+      "title": "HSBC raises Tata Power stock price target to INR375 on manufacturing ramp-up - Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPR2ZNYURXbFIzUl9zVmZFWnhOWExKT0NReEwtUklsenBrbDE2ZG94TVR5S3czZC1WMFA0eC0yQU9HNUo3SzlkQUd6NmdaaWZJX1lGLUkxTDBkeTNrTUpRd1p3X3ZhbUZ4U3hPODdobEVsMFVqaU91STh5YXlSU0JNUXR5SG9RUzZBMkVvaVZRTjN5VzVCcTdYdklRX1BXa01GenppTkpXcEJldGh4RnRkUFlWdnF0eEQ5SnUyNUVBbDFseVlUUV94RkN1LU9XeWMz?oc=5",
+      "publisher": "Investing.com",
+      "published_at": "Thu, 13 Nov 2025 08:00:00 GMT",
+      "sentiment_score": 1.0,
+      "sentiment_magnitude": 1.0,
+      "sentiment_label": "positive"
+    },
+    {
+      "source": "google",
+      "title": "Tata Power Company Ltd Upgraded to Sell on Technical Improvements Despite Financial Challenges - Markets Mojo",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxObDhoZlhkcHNNYkVVUEZsTnhudDNQMXlRWnl0dWw2ZlVLTTI0MThSQkM2SE1fV1JzcVpBdy13eUo1THd1aGRJQmtaZzdMdG1Qc0Y5VUdja0xmN29JSHN6TWxzVVBPZFBMSzFYYWIydzZhc1NJSDRFZUlyVDBHNGt3dGQxVmlTUEk4Z1VoN21xM0VZR3ZYZnhCd0dvMmlIZzVmTGJERWFOYXg3QUlBd1VRUGRNbVFkb2sxMWlwWDIyZndkZXZmLTY3WmhScS1vREkyTm92SnhUa1VuUXRaX1V3MGM4eDYycnU0VVNUdA?oc=5",
+      "publisher": "Markets Mojo",
+      "published_at": "Sat, 02 May 2026 23:32:14 GMT",
+      "sentiment_score": 0.997,
+      "sentiment_magnitude": 0.997,
+      "sentiment_label": "positive"
+    },
+    {
+      "source": "google",
+      "title": "Adani Power, Tata Power, NPTC Green: Bernstein initiates on power stocks, check targets - MSN",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxObUF2cFNwWXdxT2lIUkdsMEZCanVxNnd5RWFOTFk1TkJyTERDeUxwMzVFS0Q3cVdkbUNvYnZENzluVjBGWlhZWk1sMmFtcXhkSUlkOGVTNkVEOVRfYlVwdjhFblphZURPNHoxNWw5V29NanFmc1kxUFpQOTJ5MGtNa1BYOENGQUVYaWZfNW50OGZyVFYtaERETjR5dUhxMWxsUTJUNHROLWVyZ0NTZUZlMEFxRHdidmwwUUozc3RsaGwtY1hsWW50LWVjSEJvUndVMFEwODMxNkRIU3VsQ3pfM1VwektYWUpMd3VuOFZWb1ZYZTFtUVdB?oc=5",
+      "publisher": "MSN",
+      "published_at": "Wed, 25 Mar 2026 06:37:21 GMT",
+      "sentiment_score": -0.0,
+      "sentiment_magnitude": 0.0,
+      "sentiment_label": "neutral"
+    },
+    {
+      "source": "google",
+      "title": "Are Investors Undervaluing Tata Power Company Limited (NSE:TATAPOWER) By 40%? - simplywall.st",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOYmtVQ0tlaEdBSVU1R3ZDY090NGhYaWwzUGVSbi1mc05kNjB2d0Rranlac0lxSi02R3d2U0I5bkNzY2VRRU1WSkYxX3M3ZzBxV29QV2ZwYXh6LTh0VWg4UlZIbmlnOTZlb1hGQ1BMWTAwN2xlZzRQTGotdDgyN2RFV21KZU9tVmNNNzlQSjhYN040Q3BqajhqWjRLcDRMaGxtZU1OOHdyUmhxRzFQZnRjWEs3RGtJVkZIU2xEdGE0MnBlWmE5WWJDMTVJUW9UeEpiMndSV0NR0gHbAUFVX3lxTE9hX0tjUlJFeW54V2VteWtlWi15Zzd0YnBwRkMybEd1WC1LNWc5U0laazNuenRNUE5sRExCakc5am9YS2Q5eDVvN3h2S1NidVA3eDM1aHF0dGV2Q0hEVTdCMUxxYnozLU1oWjFRRjQzQktXdHZsR0tBTW9xSGFvU1hjWE9kWWhlcC14dTVVRUU5ZDJUaFl6S2xUUk8zSjJhSFdoQlk4cThGS0gzbURUYUpabU1ZNTVuNjFiTF9teU9DeEFUZHcxV0ZMWWh3ajgwVWhBNE4zendNeGJyaw?oc=5",
+      "publisher": "simplywall.st",
+      "published_at": "Wed, 24 Dec 2025 08:00:00 GMT",
+      "sentiment_score": -0.262,
+      "sentiment_magnitude": 0.262,
+      "sentiment_label": "negative"
+    },
+    {
+      "source": "google",
+      "title": "Tata Power Schedules Q4FY26 Analyst Call for May 12, 2026 - scanx.trade",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOTDZmVDNxTUJBS3lxTTAwejBzWTFhclM4ZkZkRWdVUlRlbUZSUFdHWGRRTTRtczM0T1ZhVkpXS1NnM3hVTDg5THBZZHFjOW9YOERldUptalg3YkxxN2YtWDFxVTRJVVNVTUNCUUFNZ2pHVy0yUWxFYnVSRVBDNkh1TU9TelJVNzQ3VDJ1WDJjWEN6TnB5aVZnb3R2VXpSb3Nid2JnZUoyakY0MnpfRTVfRUNIakl5STUxWlZ6RlJqZnhhcnFWY2NXcDdGNA?oc=5",
+      "publisher": "scanx.trade",
+      "published_at": "Tue, 05 May 2026 05:02:52 GMT",
+      "sentiment_score": -0.0,
+      "sentiment_magnitude": 0.0,
+      "sentiment_label": "neutral"
+    },
+    {
+      "source": "google",
+      "title": "Is Tata Power Stock Headed Towards Rs 600? - Equitymaster",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSno1Z1B0LWQ3dGNfYXNVTzAwTXBrdFZ0WEpsaTgyajlOWEFQb2N6bUUxcXVnX0hSVmVZODVwdDJVMjR1YUVra3JHTkR5XzYxcE5yWXNCUEhwNHhkNHVOZGtWNkVKRlZjcW91Z2xCbWtNNWxrU1RMeGRfdm9xVm1xZW1OZGlXYTlEMk9qSF9UUk5ZeDEzbkMyelc5bzVfRWNPblh6N2xYZUFTYi14ckdEVA?oc=5",
+      "publisher": "Equitymaster",
+      "published_at": "Thu, 12 Mar 2026 07:00:00 GMT",
+      "sentiment_score": -0.0,
+      "sentiment_magnitude": 0.0,
+      "sentiment_label": "neutral"
+    },
+    {
+      "source": "google",
+      "title": "Stocks to Watch Today (May 6, 2026): Vodafone Idea, Tata Power, L&T, Coforge, Paytm, Shree Cement, Bajaj Auto and more - Zee Business",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOdzh2eWNBZFlFOTZ3SnRRV0tlRzN5RHl2SVQ0S28xZlZiaUJ5NHpkVU4tcHNMMDRwZ2d0YjkxVjJXeHhxSUZrRWUtTV9kSkdzOUZOWTlBeWJ4a0JqWG9IT2Q4aFZLLVQyYUxRN3hWQVA4djNETTZTemUyTl94N3B5T3ZKZXNuWjNhc1hlVE96THBsUDIxaVNkWHY5UkJZSVRoYkh6MWNBZXJhd1p0MHJ1NVRuTV92bUE4NWV0OGdHeUNzM2ctS0RNWUhOejFnODlqZ1FxZGJNWHVQUFZDT0o0ZlpXaHdLaDVUZVE?oc=5",
+      "publisher": "Zee Business",
+      "published_at": "Wed, 06 May 2026 02:30:50 GMT",
+      "sentiment_score": -0.0,
+      "sentiment_magnitude": 0.0,
+      "sentiment_label": "neutral"
+    }
+  ],
+  "llm_signal": null,
+  "data_quality": {
+    "price_available": false,
+    "news_count": 10,
+    "yfinance_news": 0,
+    "google_news": 10,
+    "indicators_available": false,
+    "sentiment_method": "finbert"
+  }
+}

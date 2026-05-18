@@ -1,0 +1,63 @@
+{
+  "snapshot_id": "PMIIND_20260510_104951",
+  "ticker": "PMIIND",
+  "timestamp": "2026-05-10T10:49:51.434995+00:00",
+  "refresh_type": "manual",
+  "price": {
+    "current": null,
+    "open": null,
+    "high": null,
+    "low": null,
+    "close_prev": null,
+    "change_pct": null,
+    "volume": null,
+    "avg_volume_10d": null,
+    "market_cap": null,
+    "pe_ratio": null,
+    "eps": null,
+    "week_52_high": null,
+    "week_52_low": null,
+    "beta": null,
+    "dividend_yield": null,
+    "forward_pe": null,
+    "price_to_book": null
+  },
+  "technical": {
+    "rsi_14": null,
+    "rsi_signal": null,
+    "macd": null,
+    "macd_signal_line": null,
+    "macd_histogram": null,
+    "macd_crossover": null,
+    "sma_20": null,
+    "sma_50": null,
+    "ema_12": null,
+    "ema_26": null,
+    "bb_upper": null,
+    "bb_lower": null,
+    "bb_mid": null,
+    "bb_position": null,
+    "price_vs_sma20_pct": null,
+    "price_vs_sma50_pct": null,
+    "volume_vs_avg_pct": null,
+    "trend": null
+  },
+  "sentiment": {
+    "mean_score": null,
+    "magnitude_avg": null,
+    "positive_count": 0,
+    "neutral_count": 0,
+    "negative_count": 0,
+    "label": null
+  },
+  "news": [],
+  "llm_signal": null,
+  "data_quality": {
+    "price_available": false,
+    "news_count": 0,
+    "yfinance_news": 0,
+    "google_news": 0,
+    "indicators_available": false,
+    "sentiment_method": "finbert"
+  }
+}

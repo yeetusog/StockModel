@@ -1,0 +1,164 @@
+{
+  "snapshot_id": "AAPL_20260507_040839",
+  "ticker": "AAPL",
+  "timestamp": "2026-05-07T04:08:39.790001+00:00",
+  "refresh_type": "manual",
+  "price": {
+    "current": 287.51,
+    "open": null,
+    "high": 288.03,
+    "low": 281.075,
+    "close_prev": 270.17,
+    "change_pct": 6.42,
+    "volume": 58322453,
+    "avg_volume_10d": null,
+    "market_cap": null,
+    "pe_ratio": 34.765415,
+    "eps": 8.27,
+    "week_52_high": 288.62,
+    "week_52_low": 193.46,
+    "beta": 1.065,
+    "dividend_yield": 0.0038,
+    "forward_pe": 30.039297,
+    "price_to_book": 47.93431
+  },
+  "technical": {
+    "rsi_14": 49.33,
+    "rsi_signal": "neutral",
+    "macd": 0.0382,
+    "macd_signal_line": 0.0335,
+    "macd_histogram": 0.0047,
+    "macd_crossover": "bullish",
+    "sma_20": 287.47,
+    "sma_50": 287.53,
+    "ema_12": 287.56,
+    "ema_26": 287.52,
+    "bb_upper": 287.91,
+    "bb_lower": 287.03,
+    "bb_mid": 287.47,
+    "bb_position": "middle",
+    "price_vs_sma20_pct": 0.01,
+    "price_vs_sma50_pct": -0.01,
+    "volume_vs_avg_pct": -100.0,
+    "trend": "neutral"
+  },
+  "sentiment": {
+    "mean_score": 0.2,
+    "magnitude_avg": 0.202,
+    "positive_count": 2,
+    "neutral_count": 8,
+    "negative_count": 0,
+    "label": "POSITIVE"
+  },
+  "news": [
+    {
+      "source": "google",
+      "title": "$AAPL stock rose 3% this week. Here's what we see in our data. - Quiver Quantitative",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdEZaUDZOekhWNC1ranBVTm9qNmJIQnBaMTVSVERoUjZwaWJrcWJVcXU2dWh4Q0ZnS242QjA4aUFSYVlFaDBFQmhMdGhzZjhCZGs4aEI4dmlYdTYzOXBoak1lTllHem9TMnBNQ28tWU9ZaU9Zcy1tYWNrU3dWX2w4OFBaV2J3VXpHZWZTWDZReGJYaDBnZmFSUHhwdGVrZ2JCVlE?oc=5",
+      "publisher": "Quiver Quantitative",
+      "published_at": "Sat, 02 May 2026 16:40:00 GMT",
+      "sentiment_score": 0.0,
+      "sentiment_magnitude": 0.0,
+      "sentiment_label": "neutral"
+    },
+    {
+      "source": "google",
+      "title": "March Quarter Results Bolster Confidence in Apple Inc (AAPL) Stock - Insider Monkey",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPTWNLOWV6emtUcG9SUTY0eVp0aGpvdDhBbEFFQkRuOFM1bDhNemJ2TjgyaEZnNjM0d0ctN1psMnVxek9EbXFOSkJxbUhQamVsOGdHN29fQWlyZFRiRU9uVEpLNloxVHFwaXBtdGVRZFBwVU5fN1VlaHFqam82Z2lvZWRGRTlsSmtOLWlrVGZuX3V1Z0g4dnhuaVhyZjY5ZDR0UXMzcnJyWV9veDZL0gG0AUFVX3lxTFB0UW5aRjNRYVA4My1LcUkwaUx6ZWFnT0xaX2VqTHAzLVpod1VtSXB6R2UwZ0MyVVNxUF94WnBLaGF5TEVibWRkWGZULTNwcWs0NkJCTHJGMVJtMm9WS0VmVzd4MDMtcWxqR2tsc0RSWklYcGJVNHd3bmxPbkdEYWpRcGhUV05XdzduRnhuYkQ4cmMwRm02VFRtWEZiY0JlRXhlZGVkVURDc3o3SzBlOV94YlF1Uw?oc=5",
+      "publisher": "Insider Monkey",
+      "published_at": "Wed, 06 May 2026 19:07:44 GMT",
+      "sentiment_score": 1.0,
+      "sentiment_magnitude": 1.0,
+      "sentiment_label": "positive"
+    },
+    {
+      "source": "google",
+      "title": "Bank of America resets Apple stock price target after earnings - thestreet.com",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWTN0T3hCN0NVQ3hMT0U1Q0dLcGZoYWR0Y09MNmFIdjBLTk12SVNjVW9Vcll1d1B5bHJVejJZVVFFTGVKQ2lWWGtBS3ExeEZHekJuQllTTFR2RVJWUzk0aGh1ZFVMTFIwYmpHX3JudWRUYTVZRDFNYnYtaU80Y3Nya1dtdXNlNVJ5TnhwY2w5LUxiX0laS2ZuZndxTnhHUGhGV1VEWE1OSy0?oc=5",
+      "publisher": "thestreet.com",
+      "published_at": "Tue, 05 May 2026 02:07:00 GMT",
+      "sentiment_score": -0.0,
+      "sentiment_magnitude": 0.0,
+      "sentiment_label": "neutral"
+    },
+    {
+      "source": "google",
+      "title": "What Apple (AAPL)'s Massive Buyback And Chip Shift Means For Shareholders - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPOEdsNjkxQWdSQy1TRTc1ZEY5YUQ2a3N2UlJWVGxGd2tXLVhtelJRUzdpcXhBRWVOU1doaEpIbDdDOGlfYVh5WDluWHJiOUg0R0ZrbVVDZExCRjVncldfY2JMaXhwMlNSaWV1QWd4UXprM29QNkd6WktoRWdrbFlpQ1RlREx1VmxicmxzemptdzhZMFl1dkRQNk1DT3g?oc=5",
+      "publisher": "Yahoo Finance",
+      "published_at": "Wed, 06 May 2026 19:28:48 GMT",
+      "sentiment_score": 0.012,
+      "sentiment_magnitude": 0.012,
+      "sentiment_label": "neutral"
+    },
+    {
+      "source": "google",
+      "title": "[144] Apple Inc. SEC Filing - Stock Titan",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOcFVGcEVEeHlVUjNPVmd6a3pnUjVLM3FfdkE5UUp4WVBsdURRY2ZrN3I4Uk5zTXdDbFF2VlJ6cDMzQ3hMNUNhRW1UNHJnQlV0NkN2UnQtMVNESTEwOERKNWZUemNsQS1zYzYwS3I3QWZTUkc1bXlCMng1YUd5c0hlTno3dDFva0U1WVBSMlJ6SQ?oc=5",
+      "publisher": "Stock Titan",
+      "published_at": "Wed, 06 May 2026 20:03:51 GMT",
+      "sentiment_score": -0.0,
+      "sentiment_magnitude": 0.0,
+      "sentiment_label": "neutral"
+    },
+    {
+      "source": "google",
+      "title": "Apple (AAPL) Stock Quotes, Company News And Chart Analysis - Investor's Business Daily",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSGNhelByVDlqTl9VZWRUUDhacVp6bW9OSGJIM3VGRUllM1ZYVU5zUlU2MWwwNU8zVEZoTjlKN2JTZTc1U3RuSGtCazlYV05hZDkwQTNTSE9penJ1MGJ4QzY5VXlCQ1d5VTlXelF1anVuM2pJTEFRWjZHRkswbDFrbzViNkVVSzh3THZpX2NHWXNkR3RzcVNqMA?oc=5",
+      "publisher": "Investor's Business Daily",
+      "published_at": "Mon, 04 May 2026 17:32:00 GMT",
+      "sentiment_score": -0.0,
+      "sentiment_magnitude": 0.0,
+      "sentiment_label": "neutral"
+    },
+    {
+      "source": "google",
+      "title": "Apple (NASDAQ:AAPL) Stock Price Up 2.7% - What's Next? - MarketBeat",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQN3pmWGU2NVRhcnhEYVp5em83QU90LTRtZFphb3VvdnVZWWowWUVkU3FKRUd2N19pOXBJN0ZIWTR3ME9ndUFMalRSdklDaklVcFl0THJCeU1GMk05WEZ2WDNGYWhmTWZrVTYta0N4cEdCUzhLYllVWGt4TTJsZkJlYzRWZ09GeEhPazJnWUMyX1RmNHVHLWE5aGRickhGaHo5?oc=5",
+      "publisher": "MarketBeat",
+      "published_at": "Tue, 05 May 2026 22:22:14 GMT",
+      "sentiment_score": 1.0,
+      "sentiment_magnitude": 1.0,
+      "sentiment_label": "positive"
+    },
+    {
+      "source": "google",
+      "title": "Nasdaq, S&P 500 Futures Rise Despite US–Iran Flare-Up: Why AAPL, META, TSLA, PLTR, GME, SKK Are Keeping Traders Engaged Today - Stocktwits",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOcFhMSmFmZF9OeE12bTdoRDlnQmJ4TExEc2lKd20zcmVsbEFkWW45eHF5Y01LZFpWLVM1aGx6SlRXaW1rbmNCMzhhVW85NUxLcU1DYlJCc1ZwTUF6eFB1S01TSHllT3Q5bzRJZGxqdEp2ckVTSmpOeWV0N0k0d0tOTGhNRHcxN1pPcW4zcXJUenpwX2dOcThROEtHU3ByUVRYWjBtRVEtamNURVhpV1FyeEJwZ0hrNDNzZHJuaU04SnB6bk9rTFpMYy00NHZJZw?oc=5",
+      "publisher": "Stocktwits",
+      "published_at": "Wed, 06 May 2026 23:55:20 GMT",
+      "sentiment_score": -0.007,
+      "sentiment_magnitude": 0.007,
+      "sentiment_label": "neutral"
+    },
+    {
+      "source": "google",
+      "title": "AAPL Stock Price, Quote & Chart | APPLE INC (NASDAQ:AAPL) - ChartMill",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5icU9vWnFTN1M3NktkRUt2MWZEUC14Z1BWcDNBMjdmbFpCRTVHOVBOY0JJZnE0ZUR0QzAzNDBDaHlaMzFvMGYtUVJTaUI4cHpONlBhVHphSUgybDEwUzVB?oc=5",
+      "publisher": "ChartMill",
+      "published_at": "Mon, 04 May 2026 07:00:00 GMT",
+      "sentiment_score": 0.0,
+      "sentiment_magnitude": 0.0,
+      "sentiment_label": "neutral"
+    },
+    {
+      "source": "google",
+      "title": "Apple Siri Settlement Puts AI Marketing And AAPL Valuation In Focus - simplywall.st",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZUxDZmJVSFZTRkxNLWxHRGdEZG1vTDZqcTdfMF9NN1RFdkFtR1VLSkVFOEFEVEM2U2NlTkFNb2dfUlNld1lzOUNIdFhWTHZBazMycThyMXZfUmU4bjFmS2psSDlOYi1Nd1dxMkdpMy1QQUVJWTFOelJUZzJEVEw1bjdNdjctRzlWNkg3MUhGNjU3aEhna0pEVGxsOUdpUFkzdldmb2hGMHJoc2U5ZW5zSmJKdHU3N2cxX0xCMtIBwgFBVV95cUxQbldaN1VieVdDQnFTZFJZanNUR01jTHpVQ1dzRnNKVXI0X3Frbms4c2txT0d4UGVhM1hLSTM3RHhMallSRTNzVklWNVFScUttc1VWVVJ1bEVMYVgxT1FJSm9GS19WTzJGMF9CT3VNeWFTQkY5blctbGF0SkhpejBCbC1qSVR0eVg3dXhjU0Q5Vjd5YlRhZnA4QXk5aG1qX0dsdHVfYkVvUWxpYlNuaTc4dlBHbDlfVlBQUnNBejZmRjJ6dw?oc=5",
+      "publisher": "simplywall.st",
+      "published_at": "Wed, 06 May 2026 12:45:13 GMT",
+      "sentiment_score": 0.0,
+      "sentiment_magnitude": 0.0,
+      "sentiment_label": "neutral"
+    }
+  ],
+  "llm_signal": null,
+  "data_quality": {
+    "price_available": true,
+    "news_count": 10,
+    "yfinance_news": 0,
+    "google_news": 10,
+    "indicators_available": true,
+    "sentiment_method": "finbert"
+  }
+}

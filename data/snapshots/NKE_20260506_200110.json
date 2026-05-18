@@ -1,0 +1,164 @@
+{
+  "snapshot_id": "NKE_20260506_200110",
+  "ticker": "NKE",
+  "timestamp": "2026-05-06T20:01:10.872392+00:00",
+  "refresh_type": "manual",
+  "price": {
+    "current": 43.85,
+    "open": null,
+    "high": 44.07,
+    "low": 43.195,
+    "close_prev": 44.39,
+    "change_pct": -1.22,
+    "volume": 17089279,
+    "avg_volume_10d": null,
+    "market_cap": null,
+    "pe_ratio": null,
+    "eps": null,
+    "week_52_high": null,
+    "week_52_low": null,
+    "beta": null,
+    "dividend_yield": null,
+    "forward_pe": null,
+    "price_to_book": null
+  },
+  "technical": {
+    "rsi_14": 60.74,
+    "rsi_signal": "neutral",
+    "macd": 0.0482,
+    "macd_signal_line": 0.044,
+    "macd_histogram": 0.0042,
+    "macd_crossover": "bullish",
+    "sma_20": 43.78,
+    "sma_50": 43.74,
+    "ema_12": 43.84,
+    "ema_26": 43.79,
+    "bb_upper": 43.99,
+    "bb_lower": 43.58,
+    "bb_mid": 43.78,
+    "bb_position": "middle",
+    "price_vs_sma20_pct": 0.16,
+    "price_vs_sma50_pct": 0.25,
+    "volume_vs_avg_pct": -100.0,
+    "trend": "bullish"
+  },
+  "sentiment": {
+    "mean_score": 0.057,
+    "magnitude_avg": 0.343,
+    "positive_count": 2,
+    "neutral_count": 6,
+    "negative_count": 2,
+    "label": "NEUTRAL"
+  },
+  "news": [
+    {
+      "source": "google",
+      "title": "Nike Stock Is Down 19% Over the Past Year. Here’s Why Analysts Still Sees $61 Fair Value - TIKR.com",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPdEtscUdKbmo4MWptSDBiLTVoMEZIMS1tX0cwaU1DRHFhZ1FLR0NiNHRHZG5JZnEwSkozRWtvQkdOUHMtUHdWTktmamNIYllZREJ2Zm84V0VqZlItU0dHR2RoZno2cHpnd29FdXB5ZWZZTl9iTGlHMjBMR180R2hBNWY1TExsaHdNTlpqcW85R2NJX01jWDZRY0VoNS1SZDhoaWZRUHd0RXBXLW9MNGs0?oc=5",
+      "publisher": "TIKR.com",
+      "published_at": "Mon, 04 May 2026 15:03:39 GMT",
+      "sentiment_score": -0.016,
+      "sentiment_magnitude": 0.016,
+      "sentiment_label": "neutral"
+    },
+    {
+      "source": "google",
+      "title": "Nike Is Down 32% This Year and Under Investigation by the EEOC. Is NKE a Buy, Sell, or Hold? - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPaVhfTG02a3dsaXJVZ2d3dmtTeUZObEhFaXJhVjlLVjRzMWlsR0s2Z3J3aXphQXkwbXgwM2NOd1o0RFM5TzFoYS1EUF9rWlc2ZFdLWVNIelRpbHQtamlKX0FSWktNS1VVYzE0R2ZVYnBPNERtNWtib0ZGdEdZUGxjUUVtcTE0bWV4SUpLRWhoSGt0WVU?oc=5",
+      "publisher": "The Motley Fool",
+      "published_at": "Wed, 06 May 2026 12:15:00 GMT",
+      "sentiment_score": -0.016,
+      "sentiment_magnitude": 0.016,
+      "sentiment_label": "neutral"
+    },
+    {
+      "source": "google",
+      "title": "Nike’s 65% 3-Year Plunge Could Lead to 41% Upside Today - 24/7 Wall St.",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPcC1OR185UGZDejZFVmdkSTIzNTVtNGl5TlVrVmZHc2tBWHFQNmdTX196NTE0dWdfWEdfalFLYkZsZXh1SV9ZaTVUZTc3cHZpa1VMOV9DZEozMFA0TzJjYmdTZW9PMWxjRnhfUlR1V2toWXpMQ2lsalJNSDhNcjJKc0FYY1hMNEREY2M5a3lfTGV3NEhjOHBwOXhTekg?oc=5",
+      "publisher": "24/7 Wall St.",
+      "published_at": "Wed, 06 May 2026 13:13:30 GMT",
+      "sentiment_score": 1.0,
+      "sentiment_magnitude": 1.0,
+      "sentiment_label": "positive"
+    },
+    {
+      "source": "google",
+      "title": "NIKE Stock Drops 29% in 3 Months: Buy the Dip or Stay Cautious? - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOVzd4TVB6ajhWRWk1bjBiZjZDU2d6WTNzdEVHM2lReDVjWXhPdGdjY3VadW43SkowTUVWWml5UndSa19NUnNCTnJfYTR3TVZTMWVuQ1MwRkZRY2h5Y1B4MTNsYTV0WEc0QmhEdzFOeVV6aDhCSzFrVHBrZC1vWF9scVRPYU91TDhZZ3RnbVNIWQ?oc=5",
+      "publisher": "Yahoo Finance",
+      "published_at": "Mon, 04 May 2026 16:57:00 GMT",
+      "sentiment_score": -0.587,
+      "sentiment_magnitude": 0.587,
+      "sentiment_label": "negative"
+    },
+    {
+      "source": "google",
+      "title": "Nike’s Bottom May Have to Wait for a Dow Exit. What the Charts Say. - Barron's",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSThQTkk3MUJIclhGaHFQbURuRVBBaDRCM1paUExUTDZMVmVSd1cxZHRlM3V1SmxMdURvMTFWVW1EQXhuVWpZUVBJZGQ3YWFub1phbGV4SHRULVktZmE1cE5RMHMtYUVuWE95X1dBUHVJTW93cXdZOTBNSUNYbzBMWjFsbXJqa3ZWME91eQ?oc=5",
+      "publisher": "Barron's",
+      "published_at": "Fri, 01 May 2026 14:58:00 GMT",
+      "sentiment_score": -0.0,
+      "sentiment_magnitude": 0.0,
+      "sentiment_label": "neutral"
+    },
+    {
+      "source": "google",
+      "title": "NKE Stock Gains Premarket – Will The Dividend Confidence Reignite Growth? - Stocktwits",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNTkp2QVpDYWRONTk0Z0ViVU5jSXd2NFY1alVFRUp0QVl3eU43R19tNmJyaUVQR0RRS2hyRTJXbmJIci1iNmw5NDZsZ0F4TWhYSWFwMDdYbzg0Q0F5NHB5LU85TjFodG1EY1hxQ0hCVnVodE10S1JkNUFYNG8wcWs5UURnZXk4cHp6cnFEVC03RlhQaUtTRzU0LVpNWmNMVE5iSnEtQzNsMko2Z1F2V21XOWZUeWUtQklpYndJQ0tWMnFOcllxaHhuTDEwdFhHWVU?oc=5",
+      "publisher": "Stocktwits",
+      "published_at": "Tue, 05 May 2026 09:13:00 GMT",
+      "sentiment_score": 1.0,
+      "sentiment_magnitude": 1.0,
+      "sentiment_label": "positive"
+    },
+    {
+      "source": "google",
+      "title": "Highland Capital Management LLC Sells 80,603 Shares of NIKE, Inc. $NKE - MarketBeat",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbjhVamFhSFc2NTBqSGtTTkVqS1NWTTEyOVlUREU1TUlRa256cFFoNnBBU2F2UFNQTlFKalNqRkp3QThaME9vVEs3RW1PbDl1cTNxQWY5azZXVXBnUWp6RWVxTnhvSk1WOUpqc1NSZHUxQzdvLW9RemJUM3Q2M25NSEdjVndPUlk3elNMWmE2bm9zb0dQbVFWX09iN2hOMmNwWWxwcjF6aEN2RVpqclFhSkhXcXhLSGpFX0dmM295OE5ub3NEQUE?oc=5",
+      "publisher": "MarketBeat",
+      "published_at": "Wed, 06 May 2026 08:31:28 GMT",
+      "sentiment_score": -0.0,
+      "sentiment_magnitude": 0.0,
+      "sentiment_label": "neutral"
+    },
+    {
+      "source": "google",
+      "title": "Nike shareholders on June 1 are set to receive 41-cent dividend - Stock Titan",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPdUk2QkRURzNKeTdXVDBEOHg5T05rX3JhOEhILVZicWV6dTBzODkyQ0VwZ3k4eDlaMWd2b1Fzanh1NWxIbVJhakE0TVZuQW53Wk1rVmQyZkxBSWVjMWlsbmpaSmtDdHIxLW9tT19XcU5Ja0F4b214a0l0VnNKdDg3Rl9Va2trN1pLUDR5SmlOTQ?oc=5",
+      "publisher": "Stock Titan",
+      "published_at": "Mon, 04 May 2026 21:05:59 GMT",
+      "sentiment_score": 0.0,
+      "sentiment_magnitude": 0.0,
+      "sentiment_label": "neutral"
+    },
+    {
+      "source": "google",
+      "title": "S&P Global resets Nike’s stock forecast - thestreet.com",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZl94Q3N3c0stcFhhb2NrOWpkRTFvcmdBWFh1ZEFydzFweTJKaXBwV1dyMFRienV4dWc4Z01nRDZKamdGRmxqWWZ2RlhhaV93UGdTeXhpZGhHU2Z6OTktV21OZFlyY1JqUmpITkF6TXBBNmQ2WFVBbHVtZEpGNFhsaFlRRUFCamc?oc=5",
+      "publisher": "thestreet.com",
+      "published_at": "Sat, 18 Apr 2026 07:00:00 GMT",
+      "sentiment_score": -0.0,
+      "sentiment_magnitude": 0.0,
+      "sentiment_label": "neutral"
+    },
+    {
+      "source": "google",
+      "title": "Bets surge against Nike, heaping pressure on CEO Hill - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOaTF4bDNtNFlBY01IZXBIcEdnMXNHNUhoWUgxRmVHaDF0cjMwdWRGQmZRUU91eU96UjBieWFmcHRoTkpJbWluckZfdXl0Z0E1UnFIMl9Da1g0S093aG1ubG12bE9Ib2hycXgwUTZVSEJJUDRZN3RxM1BFZy0wVUxHQ3hzdl9xTmFyb2VzcEJ5V20yMk42anRINWhR?oc=5",
+      "publisher": "Reuters",
+      "published_at": "Tue, 05 May 2026 18:30:25 GMT",
+      "sentiment_score": -0.812,
+      "sentiment_magnitude": 0.812,
+      "sentiment_label": "negative"
+    }
+  ],
+  "llm_signal": null,
+  "data_quality": {
+    "price_available": true,
+    "news_count": 10,
+    "yfinance_news": 0,
+    "google_news": 10,
+    "indicators_available": true,
+    "sentiment_method": "finbert"
+  }
+}

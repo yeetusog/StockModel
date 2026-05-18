@@ -1,0 +1,164 @@
+{
+  "snapshot_id": "AAPL_20260506_192749",
+  "ticker": "AAPL",
+  "timestamp": "2026-05-06T19:27:49.917267+00:00",
+  "refresh_type": "manual",
+  "price": {
+    "current": 287.5,
+    "open": null,
+    "high": 287.9,
+    "low": 281.075,
+    "close_prev": 270.17,
+    "change_pct": 6.41,
+    "volume": 34051563,
+    "avg_volume_10d": null,
+    "market_cap": null,
+    "pe_ratio": null,
+    "eps": null,
+    "week_52_high": null,
+    "week_52_low": null,
+    "beta": null,
+    "dividend_yield": null,
+    "forward_pe": null,
+    "price_to_book": null
+  },
+  "technical": {
+    "rsi_14": 50.11,
+    "rsi_signal": "neutral",
+    "macd": 0.0552,
+    "macd_signal_line": 0.0864,
+    "macd_histogram": -0.0312,
+    "macd_crossover": "bearish",
+    "sma_20": 287.57,
+    "sma_50": 287.32,
+    "ema_12": 287.56,
+    "ema_26": 287.5,
+    "bb_upper": 287.79,
+    "bb_lower": 287.36,
+    "bb_mid": 287.57,
+    "bb_position": "middle",
+    "price_vs_sma20_pct": -0.02,
+    "price_vs_sma50_pct": 0.06,
+    "volume_vs_avg_pct": -100.0,
+    "trend": "neutral"
+  },
+  "sentiment": {
+    "mean_score": 0.204,
+    "magnitude_avg": 0.404,
+    "positive_count": 3,
+    "neutral_count": 6,
+    "negative_count": 1,
+    "label": "POSITIVE"
+  },
+  "news": [
+    {
+      "source": "google",
+      "title": "March Quarter Results Bolster Confidence in Apple Inc (AAPL) Stock - Insider Monkey",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPTWNLOWV6emtUcG9SUTY0eVp0aGpvdDhBbEFFQkRuOFM1bDhNemJ2TjgyaEZnNjM0d0ctN1psMnVxek9EbXFOSkJxbUhQamVsOGdHN29fQWlyZFRiRU9uVEpLNloxVHFwaXBtdGVRZFBwVU5fN1VlaHFqam82Z2lvZWRGRTlsSmtOLWlrVGZuX3V1Z0g4dnhuaVhyZjY5ZDR0UXMzcnJyWV9veDZL0gG0AUFVX3lxTFB0UW5aRjNRYVA4My1LcUkwaUx6ZWFnT0xaX2VqTHAzLVpod1VtSXB6R2UwZ0MyVVNxUF94WnBLaGF5TEVibWRkWGZULTNwcWs0NkJCTHJGMVJtMm9WS0VmVzd4MDMtcWxqR2tsc0RSWklYcGJVNHd3bmxPbkdEYWpRcGhUV05XdzduRnhuYkQ4cmMwRm02VFRtWEZiY0JlRXhlZGVkVURDc3o3SzBlOV94YlF1Uw?oc=5",
+      "publisher": "Insider Monkey",
+      "published_at": "Wed, 06 May 2026 19:07:30 GMT",
+      "sentiment_score": 1.0,
+      "sentiment_magnitude": 1.0,
+      "sentiment_label": "positive"
+    },
+    {
+      "source": "google",
+      "title": "Apple Siri Settlement Puts AI Marketing And AAPL Valuation In Focus - simplywall.st",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZUxDZmJVSFZTRkxNLWxHRGdEZG1vTDZqcTdfMF9NN1RFdkFtR1VLSkVFOEFEVEM2U2NlTkFNb2dfUlNld1lzOUNIdFhWTHZBazMycThyMXZfUmU4bjFmS2psSDlOYi1Nd1dxMkdpMy1QQUVJWTFOelJUZzJEVEw1bjdNdjctRzlWNkg3MUhGNjU3aEhna0pEVGxsOUdpUFkzdldmb2hGMHJoc2U5ZW5zSmJKdHU3N2cxX0xCMtIBwgFBVV95cUxQbldaN1VieVdDQnFTZFJZanNUR01jTHpVQ1dzRnNKVXI0X3Frbms4c2txT0d4UGVhM1hLSTM3RHhMallSRTNzVklWNVFScUttc1VWVVJ1bEVMYVgxT1FJSm9GS19WTzJGMF9CT3VNeWFTQkY5blctbGF0SkhpejBCbC1qSVR0eVg3dXhjU0Q5Vjd5YlRhZnA4QXk5aG1qX0dsdHVfYkVvUWxpYlNuaTc4dlBHbDlfVlBQUnNBejZmRjJ6dw?oc=5",
+      "publisher": "simplywall.st",
+      "published_at": "Wed, 06 May 2026 12:45:13 GMT",
+      "sentiment_score": 0.0,
+      "sentiment_magnitude": 0.0,
+      "sentiment_label": "neutral"
+    },
+    {
+      "source": "google",
+      "title": "Bank of America resets Apple stock price target after earnings - thestreet.com",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWTN0T3hCN0NVQ3hMT0U1Q0dLcGZoYWR0Y09MNmFIdjBLTk12SVNjVW9Vcll1d1B5bHJVejJZVVFFTGVKQ2lWWGtBS3ExeEZHekJuQllTTFR2RVJWUzk0aGh1ZFVMTFIwYmpHX3JudWRUYTVZRDFNYnYtaU80Y3Nya1dtdXNlNVJ5TnhwY2w5LUxiX0laS2ZuZndxTnhHUGhGV1VEWE1OSy0?oc=5",
+      "publisher": "thestreet.com",
+      "published_at": "Tue, 05 May 2026 02:07:00 GMT",
+      "sentiment_score": -0.0,
+      "sentiment_magnitude": 0.0,
+      "sentiment_label": "neutral"
+    },
+    {
+      "source": "google",
+      "title": "Is Apple Inc. (AAPL) A Good Stock To Buy Now? - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTmpTa3h3ZndETmt6YkVVRzdRU09vaUhPcWU4TlVVaUpQekF0ekd2VVFBVXM3R1BWTUZSRVJ2S2FmZHQ4MFdUYUsxR3liM0dZWkllY1dRRm9fNk1ESkhtenRNenNOMHRyRURJbE9vX0syZ0xaTEwzMlhRY25qZ3dqbnRXVHhyUTU4U20yMjU5V2lCcU9v?oc=5",
+      "publisher": "Yahoo Finance",
+      "published_at": "Sun, 03 May 2026 18:11:19 GMT",
+      "sentiment_score": 1.0,
+      "sentiment_magnitude": 1.0,
+      "sentiment_label": "positive"
+    },
+    {
+      "source": "google",
+      "title": "Apple (AAPL) Stock: Surges as iOS 27 AI Expansion Puts Siri and Apps in Focus - CoinCentral",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObzZaSmFOeWF5TERvQnBZdVlnaGtxcmR4aG1PejBMTDd4R1lVSXk2Z2RhRkZDZS00S3pxdm9iNXVIMUllV0VPVU01N3QwTzNZSXlSLTBUZFB3WTJ0ZlZUaVNDRFVINmtnanJjbTFmUFotbkNUdWpnci1SSkphYmQwVV9jVnctNzZ6ZWxvVzVlbHBkNENoU3FTcW43VmZTUk04?oc=5",
+      "publisher": "CoinCentral",
+      "published_at": "Wed, 06 May 2026 13:38:43 GMT",
+      "sentiment_score": 1.0,
+      "sentiment_magnitude": 1.0,
+      "sentiment_label": "positive"
+    },
+    {
+      "source": "google",
+      "title": "Apple (AAPL) Stock Quotes, Company News And Chart Analysis - Investor's Business Daily",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSGNhelByVDlqTl9VZWRUUDhacVp6bW9OSGJIM3VGRUllM1ZYVU5zUlU2MWwwNU8zVEZoTjlKN2JTZTc1U3RuSGtCazlYV05hZDkwQTNTSE9penJ1MGJ4QzY5VXlCQ1d5VTlXelF1anVuM2pJTEFRWjZHRkswbDFrbzViNkVVSzh3THZpX2NHWXNkR3RzcVNqMA?oc=5",
+      "publisher": "Investor's Business Daily",
+      "published_at": "Mon, 04 May 2026 17:32:00 GMT",
+      "sentiment_score": -0.0,
+      "sentiment_magnitude": 0.0,
+      "sentiment_label": "neutral"
+    },
+    {
+      "source": "google",
+      "title": "Apple Dividend on May 14: How Much Will You Get Holding 100 AAPL Stock - Watcher Guru",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPRWlONWlvYzZKbWRtb2FkZkNFZXIzckRrOUhDd2NRV1Q0X0p3ZzJQeF9LV2dCdXpKZUJITmRQdVJvcEhYS2lIMU96M2c5SGFGTlVrMFdLaHptbE1BTUo0Q3JUdFJBbTR1VHJLOXhfcW84NzR5clBKaGRoNE9PM2VGR2ZKYmt2ZG53ZndVVktR?oc=5",
+      "publisher": "Watcher Guru",
+      "published_at": "Wed, 06 May 2026 09:53:42 GMT",
+      "sentiment_score": -0.0,
+      "sentiment_magnitude": 0.0,
+      "sentiment_label": "neutral"
+    },
+    {
+      "source": "google",
+      "title": "AAPL Stock Price, Quote & Chart | APPLE INC (NASDAQ:AAPL) - ChartMill",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5icU9vWnFTN1M3NktkRUt2MWZEUC14Z1BWcDNBMjdmbFpCRTVHOVBOY0JJZnE0ZUR0QzAzNDBDaHlaMzFvMGYtUVJTaUI4cHpONlBhVHphSUgybDEwUzVB?oc=5",
+      "publisher": "ChartMill",
+      "published_at": "Mon, 04 May 2026 07:00:00 GMT",
+      "sentiment_score": 0.0,
+      "sentiment_magnitude": 0.0,
+      "sentiment_label": "neutral"
+    },
+    {
+      "source": "google",
+      "title": "Can Apple Stock Withstand These Pressures? - Trefis",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNX1hqZUpfZmhkMThWTE5qd3BKRURwdXd6NjhzTFNsWWRnYUs0SU92Zk5GX1hWU2Y1M1RfMDdrWEZrZzJwU2xOSW1QSFdqaWJmOG5XNzFGc2wyTWlEa0xyMWV5Snc4cExxYXRNbFEwNmlIWmhjRmhrdE1fN3hnWnAyNzN5V3F4MkhnVGhUTjM0X3ktaGtldmY5V0FrWjdaZHViMU1abHBR?oc=5",
+      "publisher": "Trefis",
+      "published_at": "Tue, 05 May 2026 08:53:11 GMT",
+      "sentiment_score": 0.038,
+      "sentiment_magnitude": 0.038,
+      "sentiment_label": "neutral"
+    },
+    {
+      "source": "google",
+      "title": "Apple (NASDAQ:AAPL) Stock Price Down 1.2% - Should You Sell? - MarketBeat",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdWFTUHoySWoxVmpGa2dQOE53NWxhNy05VnJtRkRUUVhpckVvcFNCR3lBTl9Oakdta3NGN1I2dHdyeUFQRG1QbDN3aDBkY2p6UGtSb0JOdTNidEZnM2lsUVZKN1IwSnVaNV95MGhTbmZyeDVfVjNvT0ZQcG94d1lMWVMzV1ZfTTk4QXJTYTFuSEg1WW5fUnoxWWxRbE1XN2ROYVNJTXNyQXJHQQ?oc=5",
+      "publisher": "MarketBeat",
+      "published_at": "Mon, 04 May 2026 22:46:13 GMT",
+      "sentiment_score": -1.0,
+      "sentiment_magnitude": 1.0,
+      "sentiment_label": "negative"
+    }
+  ],
+  "llm_signal": null,
+  "data_quality": {
+    "price_available": true,
+    "news_count": 10,
+    "yfinance_news": 0,
+    "google_news": 10,
+    "indicators_available": true,
+    "sentiment_method": "finbert"
+  }
+}

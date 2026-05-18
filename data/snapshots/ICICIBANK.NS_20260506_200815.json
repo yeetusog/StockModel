@@ -1,0 +1,164 @@
+{
+  "snapshot_id": "ICICIBANK.NS_20260506_200815",
+  "ticker": "ICICIBANK.NS",
+  "timestamp": "2026-05-06T20:08:15.844193+00:00",
+  "refresh_type": "manual",
+  "price": {
+    "current": 1279.5,
+    "open": null,
+    "high": 1282.8,
+    "low": 1252.1,
+    "close_prev": 1263.4,
+    "change_pct": 1.27,
+    "volume": 22908767,
+    "avg_volume_10d": null,
+    "market_cap": null,
+    "pe_ratio": 17.098757,
+    "eps": 74.83,
+    "week_52_high": 1500.0,
+    "week_52_low": 1187.6,
+    "beta": 0.28,
+    "dividend_yield": 0.0088,
+    "forward_pe": 14.1131115,
+    "price_to_book": 2.5237384
+  },
+  "technical": {
+    "rsi_14": 53.55,
+    "rsi_signal": "neutral",
+    "macd": 0.1153,
+    "macd_signal_line": 0.0751,
+    "macd_histogram": 0.0402,
+    "macd_crossover": "bullish",
+    "sma_20": 1278.91,
+    "sma_50": 1279.23,
+    "ema_12": 1279.13,
+    "ema_26": 1279.02,
+    "bb_upper": 1280.1,
+    "bb_lower": 1277.72,
+    "bb_mid": 1278.91,
+    "bb_position": "middle",
+    "price_vs_sma20_pct": 0.05,
+    "price_vs_sma50_pct": 0.02,
+    "volume_vs_avg_pct": -100.0,
+    "trend": "neutral"
+  },
+  "sentiment": {
+    "mean_score": 0.402,
+    "magnitude_avg": 0.418,
+    "positive_count": 4,
+    "neutral_count": 6,
+    "negative_count": 0,
+    "label": "POSITIVE"
+  },
+  "news": [
+    {
+      "source": "google",
+      "title": "SEBI issues warning to ICICI Bank (NYSE: IBN) on depository compliance - Stock Titan",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZkotVmVHQUhEdWgzOGtYSS02OTRCR3FBODVaRXRtdGtBNVhYRFpPRWs3VTdZSVVtUklqWnBSVEE4S3FERS1tbmEyWEJBSzVfTnFfZGJCTkdxS0NLYUJ2RFpTRHBiTUVZVXQ0dlpoLTh5VFhjWk5YcHc2VWhwRmJEckZmVnVNekhmMVVqR1lxcnlZZk41MGJqTUhQZVZEc3pIcXpoTUNBMFdsX0JjSkE?oc=5",
+      "publisher": "Stock Titan",
+      "published_at": "Wed, 06 May 2026 10:01:36 GMT",
+      "sentiment_score": -0.08,
+      "sentiment_magnitude": 0.08,
+      "sentiment_label": "neutral"
+    },
+    {
+      "source": "google",
+      "title": "ICICI Bank Receives SEBI Warning Over Depository Participant Compliance, Sees No Material Impact - TipRanks",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPS1g4X1NlVFVMUUNMaDI0MnZsLV9GbnFwZnNSbWN6OFI5cnJZc2t6OUJlMVJjMlhZRnlKTk1CbFhTYlZLV3dTOHNyR2NJUTlHeWdVd1hnNWNKX2ZaSWFnR1B4ZkxnY3p2NWZwdS05UjEyVzVyYWpZTkhnYXhmVXJRTDhDRXlZNnhkbkFTUmxrWC1yNW9ZTFllRTY4dUZ5WWJZUGpmVVBWeU5Ta1NtTGZNV1ctSkdYZ2VtS2JXeUV1ZWZ2bWgzWDVPdEhHbk1tMW00aHhId1VTYlByakpoMzNuSA?oc=5",
+      "publisher": "TipRanks",
+      "published_at": "Wed, 06 May 2026 10:32:24 GMT",
+      "sentiment_score": -0.002,
+      "sentiment_magnitude": 0.002,
+      "sentiment_label": "neutral"
+    },
+    {
+      "source": "google",
+      "title": "ICICI Bank (IBN): Best Indian Stock to Buy According to Hedge Funds - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObzVnWnpDc1Nld09uSm92SjZ3S2dBZDBKOFltSjNZemlxQnBpNDRMcGljNk1UcjdmMWRCRTVLU0JsVGtlaFpKRWM4cHFvVjcyYm04ZVJxQ2lvMU42cjhlYVFuWmVQNEhrTktDSkhDVFhwS3pTTERmTlpsVzc1eFVaOWFaUVV3SEFPT2haOTZRcEtiOFBULUE?oc=5",
+      "publisher": "Yahoo Finance",
+      "published_at": "Fri, 24 Apr 2026 07:00:00 GMT",
+      "sentiment_score": 0.103,
+      "sentiment_magnitude": 0.103,
+      "sentiment_label": "neutral"
+    },
+    {
+      "source": "google",
+      "title": "ICICI Bank stock gains after Q4 profit beats Street, brokerages bullish on strong growth and low credit costs - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPd3ctWUpXTFRpX242T3g5ZjJhWDJ0VGVmVDBnVHR0RVQyUG9TTWw3TVlJS0RkSzlOeUZBZXZBYkRPS1BKZjR4bHhqajhCeEotUjJCNHVpZ1FhbVFMZ3E2ajhhbzNuNlNTd2JBUWV5ZGZtX0kyQzV5S1ZSVmdsRHh2Ul9qdlI5NWNOYUpDS29UcUplUU45WnI4R2NCNHhneU1lc1RteUhGZUk4bUpoOUNyclBBT3BDRHF5V1ZxTE1YSkxjU3FzUjNGMElxUjNaM3ZqZXFUcDRfdE5BTFdMNTM2NXJ0RVdyREdRc1RzS1NkOUFkRTFrYTBla3pucm9HMXFn?oc=5",
+      "publisher": "TradingView",
+      "published_at": "Sun, 19 Apr 2026 07:00:00 GMT",
+      "sentiment_score": 1.0,
+      "sentiment_magnitude": 1.0,
+      "sentiment_label": "positive"
+    },
+    {
+      "source": "google",
+      "title": "Nomura raises ICICI Bank stock price target to INR1,620 on earnings - Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQekRqemxHMHdLbGpHbDQzcUg2a0IwYWNQU0NvSHl4N3lZakRDbnhFa2Y1anBUb0o4eS0zYWhNMmxWWWw0cVdaNkR0dEJFNHRaT0tUTzk5bVhoeEIwSmxZTGdkUXVBNUd4eGhrU2FuOEpDT0FFSXc1RzBtT3ZjVVdZSXJUQ19BV1l0Q0R0STE2ZGtrbUJRMGI5TjZEUVJ4TlA3SXdsMk9TUUI1QldZbzFpVEc1Ym10TW5KQUpOVTBRMTdkSVVx?oc=5",
+      "publisher": "Investing.com",
+      "published_at": "Mon, 20 Apr 2026 07:00:00 GMT",
+      "sentiment_score": 0.997,
+      "sentiment_magnitude": 0.997,
+      "sentiment_label": "positive"
+    },
+    {
+      "source": "google",
+      "title": "ICICI Bank: Strong Growth, But Emerging Risks Cap Upside(Rating Downgrade) - Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcldtNmc2Vi11cVV6VkNWci1OUzFiWUhELWZzV1BCYVk1bGRNaW8zQnJkS01pbWltV21Bcld1aGExTXRYZnBheTE2WnFLYURfNmotVV9EVjdyMlpDUTJwaFNScS1TZWJyc056d3E1eEVJSzM1SDdRMDcyX1k3Vm5UcC04STNIMFdaLWNTSW5NekRyZ0ZoLXF1TkVNRG9PYmcyWVpz?oc=5",
+      "publisher": "Seeking Alpha",
+      "published_at": "Tue, 21 Apr 2026 07:00:00 GMT",
+      "sentiment_score": 1.0,
+      "sentiment_magnitude": 1.0,
+      "sentiment_label": "positive"
+    },
+    {
+      "source": "google",
+      "title": "Stock market news today live updates: Nifty below 24,100, Sensex falls 150 points; HDFC Bank, ICICI Bank top losers - MSN",
+      "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQYU5wdVZoM1h1WFVaRUVQSVlMemJBY2x0SVlrNHdGWTZXek8tdm13ZjlNMEEtUndIWlhiR1AtOGpweVlRUmdzNEdWbGw4QXc3S1R0b2FGdWVkc04xam5vTEFsMWxJY2ZZXzdxa21DSkpyVk02eEk0Nzd5ZFNibTZwY3dIbnUtQTVrajlSN0ZlOEtGT1k4SnNwRkhSanlrSGwtUVh1Zk9vOVUyZnZnUDMzVnNMaWo3WmR6TThIQ1IwQUwteEo2enBGQnVlM1NZVW1HSV9INHlfTFpISFp6ck9URUl1bW9fZ0dTU2JZRmpGMzZ3NTI1bEJ0LUpuWFZkRWNRMVJBc2oyamRzNHdEZzNFbFZHVUNxTDJR?oc=5",
+      "publisher": "MSN",
+      "published_at": "Tue, 05 May 2026 10:33:13 GMT",
+      "sentiment_score": 0.0,
+      "sentiment_magnitude": 0.0,
+      "sentiment_label": "neutral"
+    },
+    {
+      "source": "google",
+      "title": "ICICI Bank (IBN) director Jha sells 45,000 shares, keeps 120,875 - Stock Titan",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdF90WDFJdTdUNGhtYk5kNUZodjVUdjVwekFrNU5JanltcE5qREN2ejdXWm1ycHY3QlU3a3V4amJCUW1CTGZza1pnTDhZeVZaMkRpN0gzWGxkZlh4T2tETVpmV3NnYmV6YkR2Q2FTR3NSTm5aSUtTcUNsMUZFVVNqUVdnUlFzbEJ1OUp2NjBOYWJIMGtpOU5TZjBUQmh1TDZaRFBXa1ZDWUZWRkk?oc=5",
+      "publisher": "Stock Titan",
+      "published_at": "Tue, 05 May 2026 13:21:56 GMT",
+      "sentiment_score": -0.0,
+      "sentiment_magnitude": 0.0,
+      "sentiment_label": "neutral"
+    },
+    {
+      "source": "google",
+      "title": "ICICI Bank Allots 3 Million Shares Under Employee Stock Option Scheme - TipRanks",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQelVnMGRFdkRJUkZVb0tkTGZXVGVHX25raWFXQWh0TS03T3NhTWpBM1dabWVKMlVKZE1EQy1LVTdqbjBPdEhvd0dsQ1pmS0hTMHhqQVl0eWd5dGtBVzA0cmZGNTNIYzd0SXVDQ2FHWUdoR2hIMVVRT0ZNZGZBeVdkdkQ2ZkUxYkY1VVhBTVRGcXdkRVlmUlVtYTg4Q0k2RS1vRzlObTBpLUtKamxCSDZkd2VDRE1WX251RFdFaEpB?oc=5",
+      "publisher": "TipRanks",
+      "published_at": "Fri, 17 Apr 2026 07:00:00 GMT",
+      "sentiment_score": -0.0,
+      "sentiment_magnitude": 0.0,
+      "sentiment_label": "neutral"
+    },
+    {
+      "source": "google",
+      "title": "JPMorgan raises ICICI Bank stock price target on loan growth - Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbjJQeDh6ejJNdE96S1N1X0kyVG9mVFhSdEI2djJzN0RCbjY4d0xDSEQ2X1FHZHVuMHRzX2E0N0pib3YtX2tJMUs3UFIyNWJXTTJndHlTNTVhbkE3S0x1YVlRdWJKY2pxdWtKVWhDNTV4MFpZX2xUeExmT2xvWVlKVzYyMDEwcUlZUlJmQWFZbW9Lc0lLNFJSdXZlaGpPNFZwLTh3Tk1Qa0xxT21XVUMyOXlCemozNWxKdHVySQ?oc=5",
+      "publisher": "Investing.com",
+      "published_at": "Mon, 20 Apr 2026 07:00:00 GMT",
+      "sentiment_score": 0.999,
+      "sentiment_magnitude": 0.999,
+      "sentiment_label": "positive"
+    }
+  ],
+  "llm_signal": null,
+  "data_quality": {
+    "price_available": true,
+    "news_count": 10,
+    "yfinance_news": 0,
+    "google_news": 10,
+    "indicators_available": true,
+    "sentiment_method": "finbert"
+  }
+}

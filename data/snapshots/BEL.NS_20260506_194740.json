@@ -1,0 +1,164 @@
+{
+  "snapshot_id": "BEL.NS_20260506_194740",
+  "ticker": "BEL.NS",
+  "timestamp": "2026-05-06T19:47:40.849679+00:00",
+  "refresh_type": "manual",
+  "price": {
+    "current": 438.2,
+    "open": null,
+    "high": 439.65,
+    "low": 435.15,
+    "close_prev": 431.3,
+    "change_pct": 1.6,
+    "volume": 9742902,
+    "avg_volume_10d": null,
+    "market_cap": null,
+    "pe_ratio": null,
+    "eps": null,
+    "week_52_high": null,
+    "week_52_low": null,
+    "beta": null,
+    "dividend_yield": null,
+    "forward_pe": null,
+    "price_to_book": null
+  },
+  "technical": {
+    "rsi_14": 52.17,
+    "rsi_signal": "neutral",
+    "macd": 0.0024,
+    "macd_signal_line": 0.0159,
+    "macd_histogram": -0.0135,
+    "macd_crossover": "bearish",
+    "sma_20": 438.17,
+    "sma_50": 438.05,
+    "ema_12": 438.15,
+    "ema_26": 438.14,
+    "bb_upper": 438.4,
+    "bb_lower": 437.93,
+    "bb_mid": 438.17,
+    "bb_position": "middle",
+    "price_vs_sma20_pct": 0.01,
+    "price_vs_sma50_pct": 0.03,
+    "volume_vs_avg_pct": -100.0,
+    "trend": "bullish"
+  },
+  "sentiment": {
+    "mean_score": 0.231,
+    "magnitude_avg": 0.235,
+    "positive_count": 3,
+    "neutral_count": 7,
+    "negative_count": 0,
+    "label": "POSITIVE"
+  },
+  "news": [
+    {
+      "source": "google",
+      "title": "BEL, Tata Steel, Titan: Sensex stocks rise up to 56% in a year; book profit or more gains ahead? - MSN",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPQjJiSXZ0bU8tMk5GRktvaHljeHV3djloVFlXWExHS0MzajY2Q3RCa25MRTNmNjl5M0hDVXVOYlRVRDVmcHk1Yl95UzVkTmxtLTVPMWZubzV3LVRBd0pmOWwyVVh0RkE0aTdPYXRHWDZhejh5RDhhN3JHYk8yaDBCeVl3aGg2VEQyRzFuazhuQTRoOUpBTlBBSWJGai01OWplME93OW5pN2RVcDB2Q3M4NGZ2QV8za18xS3E5N3VZSGp2Ni1fd2I4dDFRTzFWNGhwRlNKWURGUjg3NDE4cktV?oc=5",
+      "publisher": "MSN",
+      "published_at": "Tue, 05 May 2026 09:12:04 GMT",
+      "sentiment_score": 1.0,
+      "sentiment_magnitude": 1.0,
+      "sentiment_label": "positive"
+    },
+    {
+      "source": "google",
+      "title": "Why Bel Fuse (BELFA) Stock Is Trading Up Today - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOOWhtUkRJVFhBWm8wUmFsS1pPN1ZpRkVLdHB3NnJUeVRDckQtYko0ZzhweTd2aHNrX2E2T1o1R1d3TTN6d0doRXBIaWVGd1dIZDZGLW9yc0YxcklyY0dxNWxMbUwwc0lNQ1FmZDZsVnJUWFFUOFBBVEZqZ1RtS2RaNFpfY2lhWWQ1eU9kdEg1NDhfNVU?oc=5",
+      "publisher": "Yahoo Finance",
+      "published_at": "Sun, 03 May 2026 07:56:55 GMT",
+      "sentiment_score": 0.048,
+      "sentiment_magnitude": 0.048,
+      "sentiment_label": "neutral"
+    },
+    {
+      "source": "google",
+      "title": "Bel Fuse B stock hits all-time high at 292.0 USD - Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNSXNJN3FWUV8yMExDYm5fV05KWkxLbDlEQ2ZHOEFIWTY5M1dtZFJ4U3pBb2x1NkRYWmM5ZEZlYk5LLVRnekpfZDBnbmR3YS03QmxVNElFdlhSSUItcUxRZTI1NVNKcTBnRk1vQjlwQTQya0hkOGZQblpadjA1MTd2SnhtdDEtel9HakI3ckZsWW52eWo2WXo4dVBER25taFB6Qmo0QUF3?oc=5",
+      "publisher": "Investing.com",
+      "published_at": "Mon, 04 May 2026 14:36:55 GMT",
+      "sentiment_score": 0.281,
+      "sentiment_magnitude": 0.281,
+      "sentiment_label": "positive"
+    },
+    {
+      "source": "google",
+      "title": "Analysts Are Bullish on These Technology Stocks: Bel Fuse Inc (BELFB), Apple (AAPL) - The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQSHZLMUdEWks1dV9vLVp3amtTOWFwYjhXLUlaamJKd1BWUy1yanVveXdibHl3X1R2ZUhwN2lneWkyemVFeWhpZVRFRG9MaXNvTmVNLWgzcWVENS1wUmxqc21RN1VjbDNLc01aeGw5ZnJldUtFblNZWDZpajh3TVRtQ21vUWxKamw4blRUVWVYSUl1dFBfcnJBZkRvNDZKRU9Zc2ZOcnFib3NRbFZaNC1lSTlPX0NBczRZcWRORktuR1hQbU1jakFTbXk2TXhGT0dYaWFqYk9iVkYzRHhrc1I0YTlKLWRrcVJtcVRXaTRDZWJPN1Ut?oc=5",
+      "publisher": "The Globe and Mail",
+      "published_at": "Tue, 05 May 2026 11:41:04 GMT",
+      "sentiment_score": 1.0,
+      "sentiment_magnitude": 1.0,
+      "sentiment_label": "positive"
+    },
+    {
+      "source": "google",
+      "title": "BEL Shares End With A Spike After Bagging Rs 1,250-Crore Radar Detectors Order From Army - NDTV Profit",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPQllRN0hzVWZ6ZjF4elV1NVg4dUxOWEpnOFkyTXRaMlF5UHRzQV9ycUVjdUtaMjBVcEs1QkZibTVLMVJ1Vnc1LUZNS2d1S3BRN1VsWUd2V0l0T1VVS1JtM2ZELS1nQnN6MWxqMDZsUHhSZFp1anptcDNPV3BaVERDWElJa3dIeC1pNTRfRWVISVZUVW9GbE9HMGVpRHhzX2VNV3RuZU5QMnNUWW1td2s0dlBLZHFBTzNXd2x2M2FmT1gxaUNmNi1PbHI3SGzSAdQBQVVfeXFMT0o5QkJFYXdCMGxWb0V0ZHZlX2k2VGtRM2ppY2RkdHVxUXJnbmFDLUc3Q2EzdjBzNUNodlRidUlwWHMtUTZ6ZWdTdVBtS0hFcU1jcDJBTUNZZk9CbU9FV2xCWUM1U1dfeW15TVJnUGFOby1yam9Zb1VBTDVRYzVydzhDcTBBTC1QT0lZV1cyVWp4LXhnQ1NGaUhYdzJSX2FTeGMwOGVjVUx6SG1PUWdlRURNNFF6M19kZ0pBTzFmbHNtNExZeUlnaW9hT2Z0R1kzTjg1WVg?oc=5",
+      "publisher": "NDTV Profit",
+      "published_at": "Tue, 05 May 2026 10:41:14 GMT",
+      "sentiment_score": -0.017,
+      "sentiment_magnitude": 0.017,
+      "sentiment_label": "neutral"
+    },
+    {
+      "source": "google",
+      "title": "BEL stock strategy, outlook: Share price target, stop loss and more | Daily calls on BTTV - MSN",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPaUI3ajl1NjA3ZVFLVXFrSXU0YklxLUdZQWRfQnNCMkxjeDVMbW5nUEx1UlczLUNNSkNPbW9IdmVBOXpPVFFodzZRV2loMVZkVjdKenIzejY0b3lfYzNuOHFjV3FyQUIzYU5McDVFQ3FvTlJhVno5M3ZPVFNsWFZUMHRUOVI5d0FkS2pxUXlKLWRIRjEyT1N1YTVWQVVjLVM1dnBCLW00SF9PWW5iMVF2QXQ0UmFHVnlMdkRnOE54WTR4dVNmbloyc195U3BaNHlmNWJ6di1B?oc=5",
+      "publisher": "MSN",
+      "published_at": "Mon, 04 May 2026 15:36:14 GMT",
+      "sentiment_score": -0.0,
+      "sentiment_magnitude": 0.0,
+      "sentiment_label": "neutral"
+    },
+    {
+      "source": "google",
+      "title": "Who rings the bell at U.S. stock exchanges? - ShareAmerica (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8zeDJsdi1Za2d5bDZaYWdobHdVWFpyckZZLTlNME9UMEp1dXdWYzlQSGxPWWlWNUIybkRsYlZrQnlTSy03VS0tTndwSHdTY0ZBZjBtRW1IV2w4d1JTU3p5a3pnVE5Rd0VLS1psYzRsb0c?oc=5",
+      "publisher": "ShareAmerica (.gov)",
+      "published_at": "Wed, 28 Jan 2026 08:00:00 GMT",
+      "sentiment_score": -0.0,
+      "sentiment_magnitude": 0.0,
+      "sentiment_label": "neutral"
+    },
+    {
+      "source": "google",
+      "title": "US Cannabis Companies Could ‘Ring the Bell’ at US Stock Markets Under New Bill - Cannabis Business Times",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPNnI3b3BVLVdwYWhaLTRNSEFHMmRQMmF4TDFjbFdsY3lMNnhqc256eFQ1bzItNE11YUdKVWVGZnFjZk1XaG1XU1ZUeV90Z3ZwS1Z0ZjI3YnVNeHNUYlAxM0ZadmdSYWtVd241cUpBbWlod0NibGVuSXFDMVpEekNLNkhuaWhLTUhyYXhsX0laM2xKa3lKR3ZueXBUbWlPQ1hpWW96WlZVYkUzbTdrUE56aGI5Q09fcFNCVno2YnE4SlF4b1RtV3RscDRGOUI5amhJbXc?oc=5",
+      "publisher": "Cannabis Business Times",
+      "published_at": "Mon, 23 Mar 2026 07:00:00 GMT",
+      "sentiment_score": -0.004,
+      "sentiment_magnitude": 0.004,
+      "sentiment_label": "neutral"
+    },
+    {
+      "source": "google",
+      "title": "Stocks to BUY, SELL or HOLD Today, May 6: Coforge, Marico, Mahindra & Mahindra, BEL, PNB and others - ET Now",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPR0VHN1F4eWZvcXlsaWVNVlptWFFpZWNKdnk3U1JOb0hfRlhmZ1luaWRERm9Sa2xHVEpZODktbDVheVhaRWdxNldFclRlallkYTYzT3c4MnVUME4yV0NSbDY5Ql9FV240UVkzdTI5RXMybHU3X2FmOHI5dmNVVW9WeUNtWjNTYkJwWktCR1pMblV4aDFQUVdYeFZHYS1GYmZtTVdpbXF5Q2VXMU82a0RGVUxMQU9naWpid0w0aXN4Rl84dEVOandqV29BSFBFVEZvVWVqSjdmd3NId9IB3wFBVV95cUxPYXlKZUcwbDU0VjgwRnNwbW9IMEl3aFg0SXpsN2ZyUlVidEVVekt1Yl82dTVQdl9LVHFwS2p5ME9hVTZ5RDFneGYzcnctQjlDRGlMTlhldF9zUzNRSlNVaVVSWDZxVUtJR1pyN0t2ZmE0X1BNdkpDVHNFS1NLNUFIajgxckNENlAxQl94X3Axd0kzUzlWREZfbWRmajZpMnJsZC01c1VfQUtFRlIwZU5BekhnWnB2d2NnMW13ZF95M2VkS3M3bmFTMk9INkVvYVBYcXpZeTRtbVlKajNQSVRZ?oc=5",
+      "publisher": "ET Now",
+      "published_at": "Wed, 06 May 2026 03:31:20 GMT",
+      "sentiment_score": -0.001,
+      "sentiment_magnitude": 0.001,
+      "sentiment_label": "neutral"
+    },
+    {
+      "source": "google",
+      "title": "Apple Rings the Nasdaq Stock Market Opening Bell in Celebration of 50th Anniversary - Nasdaq",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZzFyeWtLcG81RW9ydkMwdTNvR1pWY0xIWnlXajBOem5JTjZhM2txbmNsbmo4X3k4TTlLUnFSWjl1MEFzX01DdHJsTXBTeWVxSWZCUFlBcDh5OXhWdVlpVkg5MWl1NEdCUjBUTF8yR1IzMlZJRnJuUTEzZjJySk81R0dRUzVmLW4zQjFPd0psdlNxbGRDQ3Zsa3BGbGZsbkRYNTQwOFRR?oc=5",
+      "publisher": "Nasdaq",
+      "published_at": "Tue, 31 Mar 2026 07:00:00 GMT",
+      "sentiment_score": 0.0,
+      "sentiment_magnitude": 0.0,
+      "sentiment_label": "neutral"
+    }
+  ],
+  "llm_signal": null,
+  "data_quality": {
+    "price_available": true,
+    "news_count": 10,
+    "yfinance_news": 0,
+    "google_news": 10,
+    "indicators_available": true,
+    "sentiment_method": "finbert"
+  }
+}

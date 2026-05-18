@@ -1,0 +1,174 @@
+{
+  "snapshot_id": "APPL_20260506_191904",
+  "ticker": "APPL",
+  "timestamp": "2026-05-06T19:19:04.955229+00:00",
+  "refresh_type": "manual",
+  "price": {
+    "current": null,
+    "open": null,
+    "high": null,
+    "low": null,
+    "close_prev": null,
+    "change_pct": null,
+    "volume": null,
+    "avg_volume_10d": null,
+    "market_cap": null,
+    "pe_ratio": null,
+    "eps": null,
+    "week_52_high": null,
+    "week_52_low": null,
+    "beta": null,
+    "dividend_yield": null,
+    "forward_pe": null,
+    "price_to_book": null
+  },
+  "technical": {
+    "rsi_14": null,
+    "rsi_signal": null,
+    "macd": null,
+    "macd_signal_line": null,
+    "macd_histogram": null,
+    "macd_crossover": null,
+    "sma_20": null,
+    "sma_50": null,
+    "ema_12": null,
+    "ema_26": null,
+    "bb_upper": null,
+    "bb_lower": null,
+    "bb_mid": null,
+    "bb_position": null,
+    "price_vs_sma20_pct": null,
+    "price_vs_sma50_pct": null,
+    "volume_vs_avg_pct": null,
+    "trend": null
+  },
+  "sentiment": {
+    "mean_score": 0.465,
+    "magnitude_avg": 0.52,
+    "positive_count": 5,
+    "neutral_count": 5,
+    "negative_count": 0,
+    "label": "POSITIVE"
+  },
+  "news": [
+    {
+      "source": "google",
+      "title": "AAPL Stock Quote Price and Forecast - CNN",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE00U3JoRzhkckt5aVFxb1NVNnBndWhrcDM5N0NqUzZGUk8xQk04OF9jVWRULXh2RmlJaGpTS1FJWEREaUlNUnhfSHk2cm53NllX?oc=5",
+      "publisher": "CNN",
+      "published_at": "Mon, 04 May 2026 08:01:51 GMT",
+      "sentiment_score": -0.0,
+      "sentiment_magnitude": 0.0,
+      "sentiment_label": "neutral"
+    },
+    {
+      "source": "google",
+      "title": "Apple: A Once-In-A-Generation Buy Signal Just Flashed (NASDAQ:AAPL) - Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOaXFudWpCdkI2WU04ejI1WFdKVTY1Um8yRmw4UC1EekVWT0RBck9jcVJVa0trRGxHbDN1RzZXeE14ZlhKZTV0andJa29CdmtOenIwTk5ROTBPZXB3Z2tDbHN5aGZ4MERKVEhnLXVSVUNzVFpIS1h6bVExY05YbWZuQmFWS3ZLOVZoMzcyQXhyZlNIQnZ1elhjaA?oc=5",
+      "publisher": "Seeking Alpha",
+      "published_at": "Tue, 05 May 2026 12:53:21 GMT",
+      "sentiment_score": 0.963,
+      "sentiment_magnitude": 0.963,
+      "sentiment_label": "positive"
+    },
+    {
+      "source": "google",
+      "title": "Apple Stock Analysis: Buy or Sell? - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQak1jbkFVWTZ0SE53U3RPaC16eUl4d3d4UDRrSGJaMkpzOG9fcFBHUzZYTTl4X0M1WnhYY2FTckYxWWdxMWlnWEh6aXRXRVRkTXRUNnZqLTRNMU16VW96bjV0d1JSaE1lanZMMWI1TzBBTndqX1B2VUZLM09NbUFLTA?oc=5",
+      "publisher": "The Motley Fool",
+      "published_at": "Tue, 05 May 2026 05:54:00 GMT",
+      "sentiment_score": 0.972,
+      "sentiment_magnitude": 0.972,
+      "sentiment_label": "positive"
+    },
+    {
+      "source": "google",
+      "title": "Apple stock gains after \"remarkable\" margin guidance - Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNOGZzb0o4SEpaZlFqY2NneVFVSU4yTG5xc1pFMHdmYUVfcUNRcndaOWZqSk0xQmhZVHR4cUNYNXBCNk52VWh4Qk4xOEZlajBJenNHajJPY3RQUFZmRFZURkZxWmRwUFJnNlhEendoZ0FwNGhfdllVcnRLa2t2eGstbE1RNnlrc2hpdVVpYkd0amRfUkRGdEw2MzNVYV9sdFpRUWhUVGdNdlhJV2xQMkUybVJCdEtNb21DVkE?oc=5",
+      "publisher": "Investing.com",
+      "published_at": "Fri, 01 May 2026 08:59:23 GMT",
+      "sentiment_score": 1.0,
+      "sentiment_magnitude": 1.0,
+      "sentiment_label": "positive"
+    },
+    {
+      "source": "google",
+      "title": "Apple (AAPL) Stock Trades Up, Here Is Why - StockStory",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMDZfZ21qMzBIVTZuN2tVbkx5bi1BVHdIbzdIX1dfNExBTFVqVjlUcFBHaHg3UzFacEZONVJPQ0J6VkluazRuVENnZzZVR0U5RllGbjdkSFJGQ3hkVV9zZUl4MVhuN1VTeWExWWpoV01QUmFnVUpjcjdQUHF1c1pxVUphQmRZbVVTcm5NSFg2eEw2Y3lUQndRN0ZMRmRncENwelNnXw?oc=5",
+      "publisher": "StockStory",
+      "published_at": "Wed, 15 Apr 2026 07:00:00 GMT",
+      "sentiment_score": 0.993,
+      "sentiment_magnitude": 0.993,
+      "sentiment_label": "positive"
+    },
+    {
+      "source": "google",
+      "title": "AAPL Stock Price, Quote & Chart | APPLE INC (NASDAQ:AAPL) - ChartMill",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5icU9vWnFTN1M3NktkRUt2MWZEUC14Z1BWcDNBMjdmbFpCRTVHOVBOY0JJZnE0ZUR0QzAzNDBDaHlaMzFvMGYtUVJTaUI4cHpONlBhVHphSUgybDEwUzVB?oc=5",
+      "publisher": "ChartMill",
+      "published_at": "Mon, 04 May 2026 07:00:00 GMT",
+      "sentiment_score": 0.0,
+      "sentiment_magnitude": 0.0,
+      "sentiment_label": "neutral"
+    },
+    {
+      "source": "google",
+      "title": "Top BofA Analyst Raises Apple Stock (AAPL) Price Target Ahead of Q2 Earnings - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNOVRudmhOX3JZOVp5QXVia0p2bk1VQVluUEY1bERqcnAwVDZhaXFGNzVILWhPV012R1BqdzJWOV9wVV9CT3FfOWNhOWQxQUk1R0QxckJvUzYyWVpHYU1QbWZramdUaV9xdW5RckRPMFlBalhLNFpmVTAzWDQ2V3pfZmNPNTVZOGZacGlES3poeUVfRDIzcWNyNUpB?oc=5",
+      "publisher": "Yahoo Finance",
+      "published_at": "Wed, 15 Apr 2026 07:00:00 GMT",
+      "sentiment_score": 0.999,
+      "sentiment_magnitude": 0.999,
+      "sentiment_label": "positive"
+    },
+    {
+      "source": "google",
+      "title": "Flat trading for Apple stock as $289.50 resistance remains a barrier - Traders Union",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPaHZnOUNxZDZaWjZPbzNLcUZicFF4RWFDc1JSUjdlMmFEV1ZBeTl6aF9Pa2V6b195OVVPanQ4SlRCVDFYR2t0Q1RSMkVzUUZPUzBmOWxiWldsZmFPcERoN2xTdW9Gc19OWUdvZEZxN3N6bzhVaWlZMlprTko4WEF1V0doSk1qUmNJdzJxTTRIS1N3OVdBeVE?oc=5",
+      "publisher": "Traders Union",
+      "published_at": "Wed, 06 May 2026 15:07:08 GMT",
+      "sentiment_score": -0.1,
+      "sentiment_magnitude": 0.1,
+      "sentiment_label": "neutral"
+    },
+    {
+      "source": "google",
+      "title": "Apple stock sees stunning Wall Street twist before earnings | AAPL - thestreet.com",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNOHpPRDYtUy1lOHZ1T1VkZDlZMmdtY2pBQy0tSGVXV2VyZjdsWmhjYmg1c08xa0VST1QxMm9fSDlvTWtXX2lLckZIVUVZS2pDRzlEcXNlMlp5SlVPT3MzRjF5UU1Xc1VxSVU2MmtFSUhvU245ckR5VW1FSVFhUTV0WWtXZlBsVW1yYzhQX1N1SW4zcEZzUENMLU14bw?oc=5",
+      "publisher": "thestreet.com",
+      "published_at": "Thu, 16 Apr 2026 07:00:00 GMT",
+      "sentiment_score": -0.166,
+      "sentiment_magnitude": 0.166,
+      "sentiment_label": "neutral"
+    },
+    {
+      "source": "google",
+      "title": "Apple Just Gave Investors a $100 Billion Reason to Rethink the AI Spending Race - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNdzNXNGlnV1pkdXF5bTRzNmllTHZxd1lLWE44WkdWeGZzWXptQksxbDFKdkNDZEt2cGYzbUV4WnF1Yk54QTlGNzBHOTlWeHJDQTVRNWl0bDI5Rk53a3I1VGhNaDFqSlNGcjd5ODVYSHRtd0lNSk9LeUp1aEtFV0tNR3RXZm96V20yZlZNU3p4TnhBUHdVdUtz?oc=5",
+      "publisher": "The Motley Fool",
+      "published_at": "Mon, 04 May 2026 12:08:00 GMT",
+      "sentiment_score": -0.009,
+      "sentiment_magnitude": 0.009,
+      "sentiment_label": "neutral"
+    }
+  ],
+  "llm_signal": {
+    "signal": "HOLD",
+    "confidence": "LOW",
+    "rationale": [
+      "Signal error: unsupported format string passed to NoneType.__format__",
+      "Manual analysis required"
+    ],
+    "model_used": "meta/llama-3.3-70b-instruct",
+    "generated_at": "2026-05-06T19:19:06.639828+00:00",
+    "raw_response": null
+  },
+  "data_quality": {
+    "price_available": false,
+    "news_count": 10,
+    "yfinance_news": 0,
+    "google_news": 10,
+    "indicators_available": false,
+    "sentiment_method": "finbert"
+  }
+}
