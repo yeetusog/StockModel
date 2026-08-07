@@ -14,12 +14,18 @@ app = FastAPI(title="Stock Signal App — NVIDIA NIM", version="1.0.0")
 app.add_middleware(CORSMiddleware, allow_origins=["*"], allow_methods=["*"], allow_headers=["*"])
 app.include_router(router)
 
-if Path("frontend").exists():
+if Path("frontend/dist").exists():
+    app.mount("/assets", StaticFiles(directory="frontend/dist/assets"), name="assets")
+
+    @app.get("/")
+    def dashboard():
+        return FileResponse("frontend/dist/index.html")
+elif Path("frontend").exists():
     app.mount("/static", StaticFiles(directory="frontend"), name="static")
 
     @app.get("/")
     def dashboard():
-        return FileResponse("frontend/dashboard.html")
+        return FileResponse("frontend/index.html")
 
 @app.get("/health")
 def health():
