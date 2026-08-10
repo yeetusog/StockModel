@@ -10,7 +10,7 @@ from app.config import settings
 from app.models.snapshot import MarketSnapshot
 from app.services.llm import get_llm_signal
 from app.services.market import compute_technical_indicators, fetch_price_data
-from app.services.news import fetch_google_news, fetch_yfinance_news
+from app.services.news import dedupe_news, fetch_google_news, fetch_yfinance_news
 from app.services.sentiment import analyze_sentiment, summarize_sentiment
 from app.services.storage import load_history, load_latest_snapshot, save_snapshot
 
@@ -49,7 +49,9 @@ async def refresh_data(ticker: str = Query(default=None)):
         loop.run_in_executor(None, fetch_google_news, news_ticker),
     )
 
-    all_news = await loop.run_in_executor(None, analyze_sentiment, yf_news + g_news)
+    # drop repeats before scoring
+    unique_news = dedupe_news(yf_news + g_news)
+    all_news = await loop.run_in_executor(None, analyze_sentiment, unique_news)
     sentiment = summarize_sentiment(all_news)
 
     snap = MarketSnapshot(

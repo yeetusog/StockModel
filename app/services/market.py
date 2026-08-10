@@ -90,13 +90,10 @@ def _fast_get(fast, name: str):
         return None
 
 
-_VOLUME_VS_AVG_BY_TICKER: dict[str, float | None] = {}
-
-
 def _fetch_quote_summary(ticker: str) -> dict:
     try:
         base = "https://query2.finance.yahoo.com/v10/finance/quoteSummary/"
-        modules = "summaryDetail,defaultKeyStatistics,financialData"
+        modules = "summaryDetail,defaultKeyStatistics,financialData,price"
         url = (
             f"{base}{urllib.parse.quote(ticker, safe='')}"
             f"?modules={modules}&corsDomain=finance.yahoo.com"
@@ -115,8 +112,13 @@ def _fetch_quote_summary(ticker: str) -> dict:
         data = result[0]
         sd = data.get("summaryDetail", {})
         ks = data.get("defaultKeyStatistics", {})
+        pr = data.get("price", {})
 
         return {
+            # yfinance stopped returning these three
+            "market_cap": _clean_number((pr.get("marketCap") or {}).get("raw")),
+            "open": _clean_number((sd.get("open") or {}).get("raw")),
+            "avg_volume_10d": _clean_number((sd.get("averageDailyVolume10Day") or {}).get("raw")),
             "pe_ratio": _clean_number((sd.get("trailingPE") or {}).get("raw")),
             "forward_pe": _clean_number((sd.get("forwardPE") or {}).get("raw")),
             "eps": _clean_number((ks.get("trailingEps") or {}).get("raw")),
@@ -182,19 +184,24 @@ def fetch_price_data(ticker: str) -> PriceData:
 
         volume = meta.get("regularMarketVolume") or info.get("volume")
         qs = _fetch_quote_summary(ticker)
-        vol_vs_avg = _fetch_volume_vs_avg(ticker, int(volume) if volume else None)
-        _VOLUME_VS_AVG_BY_TICKER[ticker] = vol_vs_avg
+
+        avg_vol_10d = info.get("averageVolume10days") or qs.get("avg_volume_10d")
 
         return PriceData(
             current=_round_or_none(current),
-            open=_clean_number(info.get("open") or info.get("regularMarketOpen") or meta.get("regularMarketOpen")),
+            open=_clean_number(
+                info.get("open") or info.get("regularMarketOpen")
+                or meta.get("regularMarketOpen") or qs.get("open")
+            ),
             high=_clean_number(_fast_get(fast, "day_high") or meta.get("regularMarketDayHigh")),
             low=_clean_number(_fast_get(fast, "day_low") or meta.get("regularMarketDayLow")),
             close_prev=_round_or_none(prev_close),
             change_pct=change_pct,
             volume=int(volume) if volume else None,
-            avg_volume_10d=info.get("averageVolume10days"),
-            market_cap=_clean_number(_fast_get(fast, "market_cap") or info.get("marketCap")),
+            avg_volume_10d=int(avg_vol_10d) if avg_vol_10d else None,
+            market_cap=_clean_number(
+                _fast_get(fast, "market_cap") or info.get("marketCap") or qs.get("market_cap")
+            ),
             pe_ratio=qs.get("pe_ratio"),
             eps=qs.get("eps"),
             week_52_high=qs.get("week_52_high") or _clean_number(_fast_get(fast, "year_high")),
@@ -246,7 +253,6 @@ def compute_technical_indicators(ticker: str) -> TechnicalIndicators:
             return TechnicalIndicators()
 
         close = df["Close"].dropna()
-        volume = df["Volume"].dropna()
         if close.empty:
             return TechnicalIndicators()
         current_price = float(close.iloc[-1])
@@ -303,9 +309,9 @@ def compute_technical_indicators(ticker: str) -> TechnicalIndicators:
 
         p_vs_20 = round(((current_price - sma20_v) / sma20_v) * 100, 2) if sma20_v else None
         p_vs_50 = round(((current_price - sma50_v) / sma50_v) * 100, 2) if sma50_v else None
-        avg_vol = _last_valid(volume.rolling(20).mean()) if not volume.empty else None
-        cur_vol = _last_valid(volume) if not volume.empty else None
-        vol_pct = round(((cur_vol - avg_vol) / avg_vol) * 100, 2) if avg_vol else None
+
+        # minute bars pinned this at -100%
+        vol_pct = _fetch_volume_vs_avg(ticker, None)
 
         trend = (
             "bullish" if sma20_v and sma50_v and current_price > sma20_v > sma50_v
