@@ -11,6 +11,7 @@ from app.models.snapshot import MarketSnapshot
 from app.services.llm import get_llm_signal
 from app.services.market import compute_technical_indicators, fetch_price_data
 from app.services.news import dedupe_news, fetch_google_news, fetch_yfinance_news
+from app.services.quality import COMPLETE, EMPTY, snapshot_quality
 from app.services.sentiment import analyze_sentiment, summarize_sentiment
 from app.services.storage import load_history, load_latest_snapshot, save_snapshot
 
@@ -49,6 +50,16 @@ async def refresh_data(ticker: str = Query(default=None)):
         loop.run_in_executor(None, fetch_google_news, news_ticker),
     )
 
+    # don't save snapshots with nothing in them
+    quality = snapshot_quality(price, tech)
+    if quality == EMPTY:
+        logger.warning(f"[refresh] {ticker} returned no price and no indicators — not saved")
+        raise HTTPException(
+            status_code=502,
+            detail=f"No market data available for {ticker}. Check the symbol is correct "
+                   f"(Indian listings need a suffix, e.g. TATAPOWER.NS).",
+        )
+
     # drop repeats before scoring
     unique_news = dedupe_news(yf_news + g_news)
     all_news = await loop.run_in_executor(None, analyze_sentiment, unique_news)
@@ -76,7 +87,8 @@ async def refresh_data(ticker: str = Query(default=None)):
     logger.info(f"[refresh] Completed for {ticker} — {len(all_news)} articles, sentiment={sentiment.label}")
 
     return {
-        "status": "success",
+        # stop calling everything a success
+        "status": "success" if quality == COMPLETE else "partial",
         "snapshot_id": snap.snapshot_id,
         "ticker": ticker,
         "timestamp": snap.timestamp,
